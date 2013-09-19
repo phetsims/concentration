@@ -35,10 +35,10 @@ require.config( {
     SCENERY_PHET: '../../scenery-phet/js',
     SUN: '../../sun/js',
 
-    // Dependencies on other sims
+    // other sims
     BEERS_LAW_LAB: "../../beers-law-lab/js",
 
-    //Sim code
+    // this sim
     CONCENTRATION: "."
   },
 
