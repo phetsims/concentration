@@ -10,4 +10,4 @@ concentrated you can go before you hit saturation!
 
 NOTE: This repository has dependency on other repositories. Those repositories
 much be checked out as siblings to this repository in your directory structure.
-See js/*config.js for a list of dependencies.
+See package.json for a list of dependencies.
