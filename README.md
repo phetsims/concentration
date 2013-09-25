@@ -8,6 +8,9 @@ with the concentration meter. What are all the ways you can change the concentra
 of your solution? Switch solutes to compare different chemicals and find out how
 concentrated you can go before you hit saturation!
 
+By PhET Interactive Simulations
+http://phet.colorado.edu/
+
 NOTE: This repository has dependency on other repositories. Those repositories
 much be checked out as siblings to this repository in your directory structure.
 See package.json for a list of dependencies.
