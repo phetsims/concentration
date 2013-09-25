@@ -1,4 +1,4 @@
-# 1.0.0-rc.1 9/25/13
+9/25/13 1.0 branch created
 # 0.0.0-dev.1 9/23/13
 9/23/13 convert to use chipper 'image' plug-in
 9/19/13 remove images that are not used by this sim from package.json
