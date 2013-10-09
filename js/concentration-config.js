@@ -11,19 +11,14 @@ require.config( {
 
   deps: ['concentration-main'],
 
-  config: {
-    i18n: {
-      locale: 'en_us'
-    }
-  },
-
   paths: {
 
     // third-party libs
-    i18n: '../../sherpa/i18n-2.0.4',
+    text: '../../sherpa/text',
 
     // PhET plugins
     image: '../../chipper/requirejs-plugins/image',
+    string: '../../chipper/requirejs-plugins/string',
 
     // PhET libs, uppercase names to identify them in require.js imports
     ASSERT: '../../assert/js',
