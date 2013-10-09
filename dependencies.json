@@ -1,0 +1,63 @@
+{
+  "chipper": {
+    "sha": "aad55423a337bd778a260054cd994ee60deed25e",
+    "branch": "master"
+  },
+  "sherpa": {
+    "sha": "71d59ca730a951e5faee5d10144b99da954bd8d2",
+    "branch": "master"
+  },
+  "sun": {
+    "sha": "f05d7e6def1b36c652371e1e8af33e9ef833401d",
+    "branch": "master"
+  },
+  "scenery-phet": {
+    "sha": "c35091016edf1989951d004c5e5e187021d92df9",
+    "branch": "master"
+  },
+  "scenery": {
+    "sha": "eacce8aeffe9e0d78d88ea18e0f91aa10d6deb64",
+    "branch": "master"
+  },
+  "phetcommon": {
+    "sha": "19086b49a25071cb424862b296afccfe65f48d82",
+    "branch": "master"
+  },
+  "phet-core": {
+    "sha": "0224cba319fec8a03b986085916f63b8dc6916b0",
+    "branch": "master"
+  },
+  "nitroglycerin": {
+    "sha": "64361d194e74042acafed34bc099aa54ff385d24",
+    "branch": "master"
+  },
+  "kite": {
+    "sha": "835bd21ac21b58d147736d8a70a36d2736d0b7e3",
+    "branch": "master"
+  },
+  "joist": {
+    "sha": "982e7042f17319841fa4aa9763e97a0d2805f5e7",
+    "branch": "master"
+  },
+  "dot": {
+    "sha": "3ae27b7c37fc81f69b4d4b3b471295db75915ff8",
+    "branch": "master"
+  },
+  "axon": {
+    "sha": "a3532264c777508f83a633c9af2fa8757b6ce1de",
+    "branch": "master"
+  },
+  "assert": {
+    "sha": "243a1befeb048c0a5354812fa0ee24b5a62df742",
+    "branch": "master"
+  },
+  "beers-law-lab": {
+    "sha": "b351049f56cb5200148d695e5d94d70cf4acea28",
+    "branch": "master"
+  },
+  "concentration": {
+    "sha": "8d95770b1d848dc08979e6783d29e208971ca1bc",
+    "branch": "1.0"
+  },
+  "comment": "# concentration 1.0.0-rc.2 Wed Oct 09 2013 13:34:03 GMT-0600 (MDT)"
+}
