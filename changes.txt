@@ -1,3 +1,4 @@
+10/14/13 #14, expand touchArea for dropper button
 10/14/13 #15, expand touchArea for Reset All button
 10/4/13 convert to string.js plugin
 9/27/13 change implementation of meter body to workaround tiling problem, see concentration#2
