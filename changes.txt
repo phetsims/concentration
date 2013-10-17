@@ -1,3 +1,4 @@
+10/17/13 #9, dropper button gets stuck in 'down' position
 10/17/13 #10, when enabled becomes false, cancel drag on faucet, so that we don't have odd multitouch behavior
 10/14/13 #12, move concentration meter title up 2 pixels so that it looks OK on Android+Firefox
 10/14/13 #14, expand touchArea for dropper button
