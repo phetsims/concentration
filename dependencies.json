@@ -1,6 +1,6 @@
 {
   "chipper": {
-    "sha": "aad55423a337bd778a260054cd994ee60deed25e",
+    "sha": "d00b7ced7fe999aa9c32f2e3dca8c3b16492028f",
     "branch": "master"
   },
   "sherpa": {
@@ -8,56 +8,56 @@
     "branch": "master"
   },
   "sun": {
-    "sha": "f05d7e6def1b36c652371e1e8af33e9ef833401d",
+    "sha": "842edda8375f3069cadb30a855d2070cdb1fb73b",
     "branch": "master"
   },
   "scenery-phet": {
-    "sha": "c35091016edf1989951d004c5e5e187021d92df9",
+    "sha": "db0e557e2187069345dd2592a5aaacf22c893097",
     "branch": "master"
   },
   "scenery": {
-    "sha": "eacce8aeffe9e0d78d88ea18e0f91aa10d6deb64",
+    "sha": "0223ca728da7aca98a647d949930730f5dd63039",
     "branch": "master"
   },
   "phetcommon": {
-    "sha": "19086b49a25071cb424862b296afccfe65f48d82",
+    "sha": "98b4cbc64fd3d299262f56aaae482f0534cfcf57",
     "branch": "master"
   },
   "phet-core": {
-    "sha": "0224cba319fec8a03b986085916f63b8dc6916b0",
+    "sha": "944d94b9468b8f2f44338308d1eebc200dc30466",
     "branch": "master"
   },
   "nitroglycerin": {
-    "sha": "64361d194e74042acafed34bc099aa54ff385d24",
+    "sha": "c72ce170d7ee937bb38591bc982eebc93ac4c38a",
     "branch": "master"
   },
   "kite": {
-    "sha": "835bd21ac21b58d147736d8a70a36d2736d0b7e3",
+    "sha": "2fde1838aaa9285b4cbc0148f66667ee2d8d333f",
     "branch": "master"
   },
   "joist": {
-    "sha": "982e7042f17319841fa4aa9763e97a0d2805f5e7",
+    "sha": "c8a3dd4ce7feb7a0fc27c4deb2940ed6f3dc0a7a",
     "branch": "master"
   },
   "dot": {
-    "sha": "3ae27b7c37fc81f69b4d4b3b471295db75915ff8",
+    "sha": "4b96ee3a859e8512e0c36c9731312d05d3bae7be",
     "branch": "master"
   },
   "axon": {
-    "sha": "a3532264c777508f83a633c9af2fa8757b6ce1de",
+    "sha": "82e9d40cebe03648d878439df6dd332f9e520b57",
     "branch": "master"
   },
   "assert": {
-    "sha": "243a1befeb048c0a5354812fa0ee24b5a62df742",
+    "sha": "ce8013d3c65c140de3ec4c6f8ab508f8098793db",
     "branch": "master"
   },
   "beers-law-lab": {
-    "sha": "b351049f56cb5200148d695e5d94d70cf4acea28",
-    "branch": "master"
+    "sha": "6cc8c6966733e115081d7db45a623d785811c48c",
+    "branch": "1.1"
   },
   "concentration": {
-    "sha": "8d95770b1d848dc08979e6783d29e208971ca1bc",
+    "sha": "edd2534c5ff577b94e17d3f725a3da5818df81bb",
     "branch": "1.0"
   },
-  "comment": "# concentration 1.0.0-rc.2 Wed Oct 09 2013 13:34:03 GMT-0600 (MDT)"
+  "comment": "# concentration 1.0.0-rc.3 Thu Oct 24 2013 13:52:34 GMT-0600 (MDT)"
 }
