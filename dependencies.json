@@ -1,63 +1,63 @@
 {
   "chipper": {
     "sha": "db1e44f353f8c6ea967866118b2e9d898eca15a3",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "sherpa": {
     "sha": "71d59ca730a951e5faee5d10144b99da954bd8d2",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "sun": {
     "sha": "842edda8375f3069cadb30a855d2070cdb1fb73b",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "scenery-phet": {
     "sha": "00269854ebbb03dd34348e667732a6432408f12b",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "scenery": {
     "sha": "0223ca728da7aca98a647d949930730f5dd63039",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "phetcommon": {
     "sha": "98b4cbc64fd3d299262f56aaae482f0534cfcf57",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "phet-core": {
     "sha": "944d94b9468b8f2f44338308d1eebc200dc30466",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "nitroglycerin": {
     "sha": "c72ce170d7ee937bb38591bc982eebc93ac4c38a",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "2fde1838aaa9285b4cbc0148f66667ee2d8d333f",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "joist": {
     "sha": "c8a3dd4ce7feb7a0fc27c4deb2940ed6f3dc0a7a",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "dot": {
     "sha": "15d9ede7cc6901b76738406c957fe40b35fad466",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "axon": {
     "sha": "82e9d40cebe03648d878439df6dd332f9e520b57",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "assert": {
     "sha": "ce8013d3c65c140de3ec4c6f8ab508f8098793db",
-    "branch": "master"
+    "branch": "HEAD"
   },
   "beers-law-lab": {
     "sha": "9347fa30a7a1c993868774af9a4ff67d94c5105f",
-    "branch": "1.1"
+    "branch": "HEAD"
   },
   "concentration": {
-    "sha": "c627a702e362754631444889055802b4907dd568",
+    "sha": "2ca4dfb46c06cba95d27bf5d4ca91369be337757",
     "branch": "1.0"
   },
-  "comment": "# concentration 1.0.0-rc.4 Sat Oct 26 2013 18:45:23 GMT-0600 (MDT)"
+  "comment": "# concentration 1.0.0 Thu Oct 31 2013 12:04:22 GMT-0600 (MDT)"
 }
