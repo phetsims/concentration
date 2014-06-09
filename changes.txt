@@ -1,3 +1,4 @@
+6/9/11 branch 1.1 created
 5/27/14 change 'imports' to 'modules' in require comments
 10/29/13 joist#66, generalize handling of credits
 10/29/13 joist#69, convert to different requirejs style for main.js
