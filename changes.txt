@@ -1,3 +1,5 @@
+# 1.1.1 10/7/14
+10/7/14 #76 workaround for Chrome 37 rendering issue by using renderer:'canvas' for Chrome
 6/19/14 check in dependencies.json for 1.1.0
 # 1.1.0 6/19/14
 6/16/14 check in dependencies.json for 1.1.0-rc.3
