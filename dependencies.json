@@ -56,12 +56,12 @@
     "branch": "HEAD"
   },
   "beers-law-lab": {
-    "sha": "3c58029d254b4414e017cdbff8e67ef94da70256",
+    "sha": "4fbfc01c10ba2f62e7669b55e9b310e64db6b16e",
     "branch": "1.2"
   },
   "concentration": {
-    "sha": "91607717a36bfeadc1a344222acfa22ff857c43e",
+    "sha": "7f0e4d8f67b0b4c34e52a73e5db8b066589423eb",
     "branch": "1.1"
   },
-  "comment": "# concentration 1.1.1 Tue Oct 07 2014 16:41:30 GMT-0600 (MDT)"
+  "comment": "# concentration 1.1.2 Tue Oct 07 2014 19:58:56 GMT-0600 (MDT)"
 }
