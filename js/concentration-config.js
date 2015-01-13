@@ -9,7 +9,7 @@
 
 require.config( {
 
-  deps: ['concentration-main'],
+  deps: [ 'concentration-main' ],
 
   paths: {
 
