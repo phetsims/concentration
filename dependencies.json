@@ -1,0 +1,71 @@
+{
+  "chipper": {
+    "sha": "c9c73a93cf3abb903486443d24220c66e11a81e9",
+    "branch": "master"
+  },
+  "vibe": {
+    "sha": "7e9c6a6f86113fd9001af6390e13625545d48049",
+    "branch": "master"
+  },
+  "sherpa": {
+    "sha": "2838342b451d0ee829ccc6991f3145c5b61ba42d",
+    "branch": "master"
+  },
+  "sun": {
+    "sha": "c9f305dcb38b1218a6099bc27e3541d2d661ecfd",
+    "branch": "master"
+  },
+  "scenery-phet": {
+    "sha": "767cab5d5b983f7e1c6259d94dc2f59eba5a683a",
+    "branch": "master"
+  },
+  "scenery": {
+    "sha": "d0d8556b3f89ba8cf5c9d269d2df2d98a1486465",
+    "branch": "master"
+  },
+  "phetcommon": {
+    "sha": "e0f0639b0726d07d5bea30f48766892dfcd4480e",
+    "branch": "master"
+  },
+  "phet-core": {
+    "sha": "7d8ed534e6ce7e148d834710f42f77ac5e92f0b6",
+    "branch": "master"
+  },
+  "nitroglycerin": {
+    "sha": "7a4eda54ba6d1a51fb3f7632f6e2b5661181bb5c",
+    "branch": "master"
+  },
+  "kite": {
+    "sha": "f5eec48d577f9bcc885d3f72f76ed08703d3e21e",
+    "branch": "master"
+  },
+  "joist": {
+    "sha": "96e3e8963b735750b2a334f5e958019c322e9131",
+    "branch": "master"
+  },
+  "dot": {
+    "sha": "ea256f020097d9a706f7207c1315722fa7aa74db",
+    "branch": "master"
+  },
+  "brand": {
+    "sha": "c7a2cb73871b7f9cbec2b8ea9ee766070a51d466",
+    "branch": "master"
+  },
+  "axon": {
+    "sha": "a8762ae83f10e169ff615ffbd2ab906a3a11f1da",
+    "branch": "master"
+  },
+  "assert": {
+    "sha": "386e00157abe609741d3095120e0e425d10e7b51",
+    "branch": "master"
+  },
+  "beers-law-lab": {
+    "sha": "8af5b31cd933dced39702ba37af8c45c4b6c9809",
+    "branch": "sonification-prototype"
+  },
+  "concentration": {
+    "sha": "ca6106c3de7f74aa7996e90f884a66cf374e2bc9",
+    "branch": "sonification-prototype"
+  },
+  "comment": "# concentration 1.2.0-sonification.1 Mon Feb 09 2015 12:34:06 GMT-0700 (Mountain Standard Time)"
+}
