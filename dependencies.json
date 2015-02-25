@@ -1,10 +1,10 @@
 {
   "chipper": {
-    "sha": "1e544ea0dbc6558dd6302426a556f5721a7fe7b9",
+    "sha": "522ff3ed9ac716816db94aec87f67477601e8068",
     "branch": "master"
   },
   "vibe": {
-    "sha": "af659d5107f306d140b2b32d14a26be4f89d927b",
+    "sha": "cc3100d248dc5e5e0b130c9503570b29bdd7a2a9",
     "branch": "master"
   },
   "sherpa": {
@@ -12,15 +12,15 @@
     "branch": "master"
   },
   "sun": {
-    "sha": "85bc9dce280b38a906c95130d44700e04f5fe523",
+    "sha": "65ab3d63bdc8e1219e65f735db829d62d5d7ed41",
     "branch": "master"
   },
   "scenery-phet": {
-    "sha": "6c7f1d526061e83b5f4d57141ac782babe6b4b28",
+    "sha": "c7d198955deff3ac84b022cd677aa62daa5e547b",
     "branch": "master"
   },
   "scenery": {
-    "sha": "489ce1ae420eee72ec3613a68469040553b44841",
+    "sha": "d1c1bc8bae832be3cd3e1b75f44191deded2df76",
     "branch": "master"
   },
   "phetcommon": {
@@ -36,15 +36,15 @@
     "branch": "master"
   },
   "kite": {
-    "sha": "8d80e165c771500a67fc508767b682139e7906ae",
+    "sha": "1d3668fa88ee160dd17bbf13a03edc0389938b7d",
     "branch": "master"
   },
   "joist": {
-    "sha": "88e285c04eb622fdbd5670e3f7ac5944ca799b30",
+    "sha": "34d30e21fd7dade606c051c6a5504ebcd2d407b7",
     "branch": "master"
   },
   "dot": {
-    "sha": "b7e24feee13296a76659dcf3070888e5cee9bbcd",
+    "sha": "bccefb655ef000fe5761c243f73ed2e9d97dbd9d",
     "branch": "master"
   },
   "brand": {
@@ -52,7 +52,7 @@
     "branch": "master"
   },
   "axon": {
-    "sha": "9c8d2b0328a1929231bb8a4626e6df5fa8d7f072",
+    "sha": "8d8bfc2bb4ef0baae79a426786816695f09e3df7",
     "branch": "master"
   },
   "assert": {
@@ -60,12 +60,12 @@
     "branch": "master"
   },
   "beers-law-lab": {
-    "sha": "32a1d4598e2cdf99973a8c9232020fa905e06b7a",
+    "sha": "e916a6f36c30ae4babc69178df4239aa5d4f39c0",
     "branch": "sonification-prototype"
   },
   "concentration": {
-    "sha": "6ae2463940de3c3c4e1daeed641acbad6af52aab",
+    "sha": "8b402cdc2906f7761d50a6b725588ff4f450c2cd",
     "branch": "sonification-prototype"
   },
-  "comment": "# concentration 1.2.0-sonification.2 Sun Feb 22 2015 09:00:28 GMT-0700 (Mountain Standard Time)"
+  "comment": "# concentration 1.2.0-sonification.3 Wed Feb 25 2015 10:53:49 GMT-0700 (Mountain Standard Time)"
 }
