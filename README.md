@@ -1,22 +1,52 @@
-concentration
+Concentration
 =============
+"Concentration" is an educational simulation in HTML5, by <a href="http://phet.colorado.edu/" target="_blank">PhET Interactive Simulations</a>
+at the University of Colorado Boulder.
+For a description of this simulation, associated resources, and a link to the published version,
+<a href="http://phet.colorado.edu/en/simulation/concentration" target="_blank">visit the simulation's web page</a>.
 
-PhET 'Concentration' simulation
+### Try it!
 
-Watch your solution change color as you mix chemicals with water. Then check molarity
-with the concentration meter. What are all the ways you can change the concentration
-of your solution? Switch solutes to compare different chemicals and find out how
-concentrated you can go before you hit saturation!
+<a href="http://phet.colorado.edu/sims/html/concentration/latest/concentration_en.html" target="_blank">Click here to run "Concentration".</a>
 
-By PhET Interactive Simulations
-http://phet.colorado.edu/
+<a href="http://phet.colorado.edu/sims/html/concentration/latest/concentration_en.html" target="_blank">
+<img src="https://raw.githubusercontent.com/phetsims/concentration/master/assets/concentration-screenshot.png" alt="Screenshot" style="width: 400px;"/>
+</a>
 
-NOTE: This repository has dependencies on other repositories. Those repositories
-much be checked out as siblings to this repository in your directory structure.
-See package.json for a list of dependencies.
+### Documentation
+The <a href="http://bit.ly/phet-development-overview" target="_blank">PhET Development Overview</a> is the most complete guide to PhET Simulation
+Development. This guide includes how to obtain simulation code and its dependencies, notes about architecture & design, how to test and build
+the sims, as well as other important issues.
 
-Third-Party Dependencies
-=============
+### Quick Start
+(1) Clone the simulation and its dependencies:
+```
+git clone https://github.com/phetsims/concentration.git
+git clone https://github.com/phetsims/assert.git
+git clone https://github.com/phetsims/axon.git
+git clone https://github.com/phetsims/beers-law-lab.git
+git clone https://github.com/phetsims/brand.git
+git clone https://github.com/phetsims/chipper.git
+git clone https://github.com/phetsims/dot.git
+git clone https://github.com/phetsims/joist.git
+git clone https://github.com/phetsims/kite.git
+git clone https://github.com/phetsims/nitroglycerin.git
+git clone https://github.com/phetsims/phet-core.git
+git clone https://github.com/phetsims/phetcommon.git
+git clone https://github.com/phetsims/scenery.git
+git clone https://github.com/phetsims/scenery-phet.git
+git clone https://github.com/phetsims/sherpa.git
+git clone https://github.com/phetsims/sun.git
+```
+(2) Start an http-server
 
-This repository uses third-party libraries.
-Those libraries and their licenses are available in: https://github.com/phetsims/sherpa.
+(3) Open `http://localhost/concentration/concentration_en.html` (You will probably need to modify this URL based on your HTTP port and relative path.)
+
+### Get Involved
+
+Contact us at our Google Group: <a href="http://groups.google.com/forum/#!forum/developing-interactive-simulations-in-html5" target="_blank">Developing Interactive Simulations in HTML5</a>
+
+Help us improve, create a <a href="http://github.com/phetsims/concentration/issues/new" target="_blank">New Issue</a>
+
+### License
+See the <a href="https://github.com/phetsims/concentration/blob/master/LICENSE" target="_blank">LICENSE</a>
