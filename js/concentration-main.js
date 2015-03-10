@@ -14,7 +14,7 @@ define( function( require ) {
   var SimLauncher = require( 'JOIST/SimLauncher' );
 
   // strings
-  var simTitle = require( 'string!BEERS_LAW_LAB/tab.concentration' );
+  var simTitle = require( 'string!CONCENTRATION/concentration.name' );
 
   var simOptions = {
     credits: {

@@ -15,5 +15,5 @@
     "uglify-js": "~2.4.0",
     "requirejs": "~2.1.8"
   },
-  "simTitleStringKey": "BEERS_LAW_LAB/tab.concentration"
+  "simTitleStringKey": "CONCENTRATION/concentration.name"
 }
