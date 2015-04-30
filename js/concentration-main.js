@@ -17,13 +17,16 @@ define( function( require ) {
   // strings
   var simTitle = require( 'string!CONCENTRATION/concentration.name' );
 
+  var tandem = new Tandem();
+
   var simOptions = {
     credits: {
       leadDesign: 'Julia Chamberlain',
       softwareDevelopment: 'Chris Malley',
       team: 'Kelly Lancaster, Emily B. Moore, Ariel Paul, Kathy Perkins',
       thanks: 'Conversion of this simulation to HTML5 was funded by the Royal Society of Chemistry.'
-    }
+    },
+    tandem: tandem
   };
 
   // Appending '?dev' to the URL will enable developer-only features.
@@ -34,8 +37,7 @@ define( function( require ) {
   }
 
   SimLauncher.launch( function() {
-    var tandem = new Tandem( 'concentration' );
-    var sim = new Sim( simTitle, [ new ConcentrationScreen( tandem ) ], simOptions );
+    var sim = new Sim( simTitle, [ new ConcentrationScreen( tandem.createTandem( 'concentration' ) ) ], simOptions );
     sim.start();
   } );
 } );
