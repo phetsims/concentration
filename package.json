@@ -1,6 +1,6 @@
 {
   "name": "concentration",
-  "version": "1.2.0-dev.1",
+  "version": "1.2.0-dev.4",
   "license": "GPLv3",
   "simTitleStringKey": "CONCENTRATION/concentration.name",
   "phetLibs": [
