@@ -6,21 +6,7 @@
   "phetLibs": [
     "concentration",
     "beers-law-lab",
-    "assert",
-    "axon",
-    "babel",
-    "brand",
-    "chipper",
-    "dot",
-    "joist",
-    "kite",
-    "nitroglycerin",
-    "phet-core",
-    "phetcommon",
-    "scenery",
-    "scenery-phet",
-    "sherpa",
-    "sun"
+    "nitroglycerin"
   ],
   "repository": {
     "type": "git",
