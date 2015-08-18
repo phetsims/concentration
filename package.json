@@ -17,7 +17,6 @@
     "requirejsNamespace": "CONCENTRATION",
     "simTitleStringKey": "CONCENTRATION/concentration.name",
     "phetLibs": [
-      "concentration",
       "beers-law-lab",
       "nitroglycerin"
     ]
