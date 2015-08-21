@@ -15,7 +15,6 @@
   },
   "phet": {
     "requirejsNamespace": "CONCENTRATION",
-    "simTitleStringKey": "CONCENTRATION/concentration.name",
     "phetLibs": [
       "beers-law-lab",
       "nitroglycerin"
