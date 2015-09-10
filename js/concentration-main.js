@@ -15,7 +15,7 @@ define( function( require ) {
   var Tandem = require( 'TANDEM/Tandem' );
 
   // strings
-  var simTitle = require( 'string!CONCENTRATION/concentration.name' );
+  var simTitle = require( 'string!CONCENTRATION/concentration.title' );
 
   var tandem = new Tandem();
 
