@@ -17,7 +17,8 @@
     "requirejsNamespace": "CONCENTRATION",
     "phetLibs": [
       "beers-law-lab",
-      "nitroglycerin"
+      "nitroglycerin",
+      "tandem"
     ]
   }
 }
