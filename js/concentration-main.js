@@ -17,7 +17,7 @@ define( function( require ) {
   // strings
   var simTitle = require( 'string!CONCENTRATION/concentration.title' );
 
-  var tandem = new Tandem();
+  var tandem = new Tandem( 'concentration' );
 
   var simOptions = {
     credits: {
@@ -37,7 +37,7 @@ define( function( require ) {
   }
 
   SimLauncher.launch( function() {
-    var sim = new Sim( simTitle, [ new ConcentrationScreen( tandem.createTandem( 'concentration' ) ) ], simOptions );
+    var sim = new Sim( simTitle, [ new ConcentrationScreen( tandem ) ], simOptions );
     sim.start();
   } );
 } );
