@@ -37,10 +37,10 @@ require.config( {
     TANDEM: '../../tandem/js',
 
     // other sims
-    BEERS_LAW_LAB: "../../beers-law-lab/js",
+    BEERS_LAW_LAB: '../../beers-law-lab/js',
 
     // this sim
-    CONCENTRATION: "."
+    CONCENTRATION: '.'
   },
 
   // optional cache buster to make browser refresh load all included scripts, can be disabled with ?cacheBuster=false
