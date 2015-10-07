@@ -37,7 +37,7 @@ define( function( require ) {
   }
 
   SimLauncher.launch( function() {
-    var sim = new Sim( simTitle, [ new ConcentrationScreen( tandem ) ], simOptions );
+    var sim = new Sim( simTitle, [ new ConcentrationScreen( tandem.createTandem( 'concentrationScreen' ) ) ], simOptions );
     sim.start();
   } );
 } );
