@@ -18,6 +18,9 @@
     "phetLibs": [
       "beers-law-lab",
       "nitroglycerin"
+    ],
+    "togetherPreload": [
+      "../together/js/api/concentration-screen-api.js"
     ]
   }
 }
