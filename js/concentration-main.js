@@ -15,7 +15,7 @@ define( function( require ) {
   var Tandem = require( 'TANDEM/Tandem' );
 
   // strings
-  var simTitle = require( 'string!CONCENTRATION/concentration.title' );
+  var concentrationTitleString = require( 'string!CONCENTRATION/concentration.title' );
 
   var tandem = new Tandem( 'concentration' );
 
@@ -38,7 +38,7 @@ define( function( require ) {
   }
 
   SimLauncher.launch( function() {
-    var sim = new Sim( simTitle, [ new ConcentrationScreen( tandem.createTandem( 'concentrationScreen' ) ) ], simOptions );
+    var sim = new Sim( concentrationTitleString, [ new ConcentrationScreen( tandem.createTandem( 'concentrationScreen' ) ) ], simOptions );
     sim.start();
   } );
 } );
