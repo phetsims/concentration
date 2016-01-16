@@ -17,7 +17,7 @@ define( function( require ) {
   // strings
   var concentrationTitleString = require( 'string!CONCENTRATION/concentration.title' );
 
-  var tandem = new Tandem( 'concentration' );
+  var tandem = Tandem.createRootTandem();
 
   var simOptions = {
     credits: {
