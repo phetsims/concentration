@@ -18,11 +18,11 @@
     "phetLibs": [
       "beers-law-lab",
       "nitroglycerin"
-    ]
-  },
-  "phet-io": {
-    "preload": [
-      "../together/js/api/beers-law-lab-api.js"
-    ]
+    ],
+    "phet-io": {
+      "preload": [
+        "../together/js/api/beers-law-lab-api.js"
+      ]
+    }
   }
 }
