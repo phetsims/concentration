@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.2.3-rc.1 Mon Mar 07 2016 11:46:46 GMT-0700 (MST)",
+  "comment": "# concentration 1.2.3 Mon Mar 07 2016 16:49:55 GMT-0700 (MST)",
   "assert": {
     "sha": "11bc6a6d0344ba1a8b95982bad3552bffbdfdfd6",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "2ee3815e37100943d2d832fd18d9296534d5b1b1",
+    "sha": "a72bed82a064ac8068397df31dccaf688aa0b45c",
     "branch": "1.2"
   },
   "dot": {
