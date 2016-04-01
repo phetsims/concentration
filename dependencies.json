@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.2.3 Mon Mar 07 2016 16:49:55 GMT-0700 (MST)",
+  "comment": "# concentration 1.2.3 Fri Apr 01 2016 12:52:29 GMT-0600 (MDT)",
   "assert": {
     "sha": "11bc6a6d0344ba1a8b95982bad3552bffbdfdfd6",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "a72bed82a064ac8068397df31dccaf688aa0b45c",
+    "sha": "fe293b155f82bd07e0403ff04c108fd639112395",
     "branch": "1.2"
   },
   "dot": {
@@ -45,8 +45,8 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "eff6a3ded6bcb498d544da6133f594c1d06abe5b",
-    "branch": "HEAD"
+    "sha": "de21f644ec7701e6d8597b0aefcdb3742a5c27ed",
+    "branch": "concentration-1.2"
   },
   "scenery": {
     "sha": "e2949e56551fbdebd983d3538fb1a1476b883dd8",
