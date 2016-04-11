@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.0-dev.5 Mon Apr 04 2016 13:08:17 GMT-0600 (MDT)",
+  "comment": "# concentration 1.3.0-dev.6 Sun Apr 10 2016 21:22:40 GMT-0600 (MDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "master"
@@ -9,7 +9,7 @@
     "branch": "master"
   },
   "beers-law-lab": {
-    "sha": "7276bcdaf2c823c6ca65d187f62bc9bc60dd21b3",
+    "sha": "d7d52a36c59f5b7fbcd8ea0d4d26c3777afcbf48",
     "branch": "master"
   },
   "brand": {
@@ -21,15 +21,15 @@
     "branch": "master"
   },
   "concentration": {
-    "sha": "299c8cf301d191886c104aedc95af9537a6df047",
+    "sha": "1e025e34e2270cbeab5f68e0cadf0611f9331316",
     "branch": "master"
   },
   "dot": {
-    "sha": "33ae235e302fbfb1aa0a541265b7241237501865",
+    "sha": "833eef12a0c06039634802ebb2b50acd347a0a09",
     "branch": "master"
   },
   "joist": {
-    "sha": "ecd8d968e09ee1be00a444a261a01d1b391422e2",
+    "sha": "393ac1c96784522e6720ea69c41fab388df4b8f0",
     "branch": "master"
   },
   "kite": {
@@ -61,7 +61,7 @@
     "branch": "master"
   },
   "sun": {
-    "sha": "953074cca0879fe5c5d1041670a45ff697796742",
+    "sha": "33a3bb5d7b3bfab38157f400e705c2a4e2c6202f",
     "branch": "master"
   },
   "tandem": {
