@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.0-dev.7 Tue May 03 2016 23:17:09 GMT-0600 (MDT)",
+  "comment": "# concentration 1.3.0-dev.8 Tue May 03 2016 23:42:07 GMT-0600 (MDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "master"
@@ -17,11 +17,11 @@
     "branch": "master"
   },
   "chipper": {
-    "sha": "03c528918ac7474793e0748e35e2eaae3a9804d9",
+    "sha": "6974eda0e2e8c33f46bcf3b6f42de497379f75d5",
     "branch": "master"
   },
   "concentration": {
-    "sha": "a44d0f5b0080b379b0304a510c5facc1318192c5",
+    "sha": "3c9809fed55d5d2c20295a504de9cfef555c4301",
     "branch": "master"
   },
   "dot": {
