@@ -1,15 +1,15 @@
 {
-  "comment": "# concentration 1.3.0-dev.10 Wed May 04 2016 10:14:07 GMT-0600 (MDT)",
+  "comment": "# concentration 1.3.0-dev.11 Fri May 13 2016 12:52:52 GMT-0600 (MDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "master"
   },
   "axon": {
-    "sha": "5e33541f53066f495d1b42efe7344a3c4cb3e3d2",
+    "sha": "9bf8f88c0496820bccff4a7fe5da00fdeeb851a4",
     "branch": "master"
   },
   "beers-law-lab": {
-    "sha": "ae0fbc5df3e21ca26a942cf41282027c9c4bfe2b",
+    "sha": "bc5e017ccfc274febd0b2714a7ecdf992a9ebdf7",
     "branch": "master"
   },
   "brand": {
@@ -17,11 +17,11 @@
     "branch": "master"
   },
   "chipper": {
-    "sha": "184674bad4b27833f8f94fd2e902920eaf635320",
+    "sha": "2c6804e028d542f7e53042db50a094d43e91392c",
     "branch": "master"
   },
   "concentration": {
-    "sha": "e6461d4a37d40df970ae28e99cc829253d6cdaa1",
+    "sha": "51bfc4b5d3e1753a66345d061afc03b82967681c",
     "branch": "master"
   },
   "dot": {
@@ -29,7 +29,7 @@
     "branch": "master"
   },
   "joist": {
-    "sha": "48836bcfa7976b246802b0b6ec3f1fedd23c889e",
+    "sha": "3931eb7696b29a1697219826728325b403ac72f6",
     "branch": "master"
   },
   "kite": {
@@ -49,23 +49,23 @@
     "branch": "master"
   },
   "scenery": {
-    "sha": "0a2c1691ffb015ed00cc868b986f96cec66e731c",
+    "sha": "204093556dd415cb4a2796e1374dccdd04b4bcaa",
     "branch": "master"
   },
   "scenery-phet": {
-    "sha": "436bf61deca586ec23aaffa4811bf0333d262f4c",
+    "sha": "d8d9611154e5a7d7f7be408493b890abb2b985fc",
     "branch": "master"
   },
   "sherpa": {
-    "sha": "ab4d5c141bec124c13aeb3d5e0631257da1785bf",
+    "sha": "e1b3c84b4f51328893008890fc462c32b8ec9278",
     "branch": "master"
   },
   "sun": {
-    "sha": "9f2d40d5ba8cc0f11c9852300e0d7ba59eb06495",
+    "sha": "6f66368fd9cee088af7e481377ed91dbf2ba82dc",
     "branch": "master"
   },
   "tandem": {
-    "sha": "5af5b8f84ebfffe7e62994a27e5201b01032a743",
+    "sha": "29f642332a94dbabc1802cdbee2dbb6481a7614f",
     "branch": "master"
   }
 }
