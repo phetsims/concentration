@@ -14,6 +14,9 @@ define( function( require ) {
   var SimLauncher = require( 'JOIST/SimLauncher' );
   var Tandem = require( 'TANDEM/Tandem' );
 
+  // If running as phet-io, load the API
+  require( 'ifphetio!PHET_IO/api/concentration-api' );
+
   // strings
   var concentrationTitleString = require( 'string!CONCENTRATION/concentration.title' );
 
