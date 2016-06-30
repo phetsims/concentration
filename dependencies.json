@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.0-rc.2 Thu Jun 16 2016 10:33:20 GMT-0600 (MDT)",
+  "comment": "# concentration 1.3.0 Thu Jun 30 2016 13:06:50 GMT-0600 (MDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -10,7 +10,7 @@
   },
   "beers-law-lab": {
     "sha": "94156a4582644090a723db8be8f03bd660791553",
-    "branch": "1.4"
+    "branch": "HEAD"
   },
   "brand": {
     "sha": "bb1cfcc63c3d007d800ede089994d8705db6d47b",
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "e8c2cb94214e229089f80b64ef44b1f9b6371869",
+    "sha": "95e49ae64b8dc86251efd55a31209b06e3e38c23",
     "branch": "1.3"
   },
   "dot": {
