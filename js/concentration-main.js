@@ -26,8 +26,7 @@ define( function( require ) {
       team: 'Kelly Lancaster, Emily B. Moore, Ariel Paul, Kathy Perkins',
       qualityAssurance: 'Steele Dalton, Bryce Griebenow, Elise Morgan,\nOliver Orejola, Benjamin Roberts, Bryan Yoelin',
       thanks: 'Conversion of this simulation to HTML5 was funded by the Royal Society of Chemistry.'
-    },
-    tandem: tandem
+    }
   };
 
   // Appending '?dev' to the URL will enable developer-only features.
