@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.1-phetio Wed Nov 02 2016 09:59:09 GMT-0600 (MDT)",
+  "comment": "# concentration 1.5.2-phetio Thu Nov 03 2016 16:04:43 GMT-0600 (MDT)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "master"
@@ -9,8 +9,8 @@
     "branch": "master"
   },
   "beers-law-lab": {
-    "sha": "d21537acd882d84a493e649e73266d1b76b87956",
-    "branch": "master"
+    "sha": "4a0dbfd6644549af23b4a3f5f6c2120a6419f24d",
+    "branch": "1.5-phetio"
   },
   "brand": {
     "sha": "880a18ded11185580cf5950e568931cf0df4eb87",
@@ -21,7 +21,7 @@
     "branch": "master"
   },
   "concentration": {
-    "sha": "321caad8cb039a7ddb325ae58c7fa07068f1ac03",
+    "sha": "6af2dbd9ef1b2ff67646ed51dbb432b8aaedf643",
     "branch": "1.5-phetio"
   },
   "dot": {
@@ -45,11 +45,11 @@
     "branch": "master"
   },
   "phet-io": {
-    "sha": "22157cc8fea8315aaa1b63ff802d7d88f3c57466",
+    "sha": "c36682889eb683a9f4175becab5c47d2061299d3",
     "branch": "master"
   },
   "phet-io-website": {
-    "sha": "f6cbbe3275b8d27b6160bb127d7142794aea731c",
+    "sha": "0764791784be8911c6fcf031bc612dacb92d5e5c",
     "branch": "master"
   },
   "phetcommon": {
