@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.3 Tue Dec 06 2016 16:40:14 GMT-0700 (Mountain Standard Time)",
+  "comment": "# concentration 1.3.3 Wed Apr 05 2017 22:19:18 GMT-0600 (MDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "fe6085495c10f7135179d907453e72faa453439f",
+    "sha": "a51ca0cc3425de4728a1e8aca70c8fef1d34bc55",
     "branch": "1.3"
   },
   "dot": {
@@ -49,8 +49,8 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "d36b3155914d419aa7e7205d3fac81e251139a4e",
-    "branch": "HEAD"
+    "sha": "860f0b5ac339c1defadb9431f946202b5afbfd67",
+    "branch": "concentration-1.3"
   },
   "scenery-phet": {
     "sha": "2b60b8e4d52c4bbfbc4226e905c5cc56ceb0e0cb",
