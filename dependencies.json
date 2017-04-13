@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.4 Thu Apr 13 2017 15:55:17 GMT-0600 (MDT)",
+  "comment": "# concentration 1.3.5-rc.1 Thu Apr 13 2017 17:08:00 GMT-0600 (MDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -14,14 +14,14 @@
   },
   "brand": {
     "sha": "cb62cd0068e7be23aa628f2718ebb5783ac774f8",
-    "branch": "concentration-1.3"
+    "branch": "HEAD"
   },
   "chipper": {
     "sha": "a5b75956fe484695e13e84e9fd9bea073009045c",
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "83b1d78d464cb30d835f7763c32fbdb64635ed73",
+    "sha": "6c00df9801375e56c7221d735191442436b48161",
     "branch": "1.3"
   },
   "dot": {
@@ -46,7 +46,7 @@
   },
   "phetcommon": {
     "sha": "6b4ae367f2c1889f2f9831f644b79026e69a8e7c",
-    "branch": "concentration-1.3"
+    "branch": "HEAD"
   },
   "scenery": {
     "sha": "860f0b5ac339c1defadb9431f946202b5afbfd67",
