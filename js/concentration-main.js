@@ -10,14 +10,12 @@ define( function( require ) {
 
   // modules
   var ConcentrationScreen = require( 'BEERS_LAW_LAB/concentration/ConcentrationScreen' );
+  var BLLConstants = require( 'BEERS_LAW_LAB/common/BLLConstants' );
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
-  var Tandem = require( 'TANDEM/Tandem' );
 
   // strings
   var concentrationTitleString = require( 'string!CONCENTRATION/concentration.title' );
-
-  var tandem = Tandem.createRootTandem();
 
   var simOptions = {
     credits: {
@@ -30,7 +28,9 @@ define( function( require ) {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( concentrationTitleString, [ new ConcentrationScreen( tandem.createTandem( 'concentrationScreen' ) ) ], simOptions );
+    var sim = new Sim( concentrationTitleString,
+      [ new ConcentrationScreen( BLLConstants.CONCENTRATION_SCREEN_TANDEM ) ],
+      simOptions );
     sim.start();
   } );
 } );
