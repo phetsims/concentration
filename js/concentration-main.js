@@ -9,8 +9,8 @@ define( function( require ) {
   'use strict';
 
   // modules
-  var ConcentrationScreen = require( 'BEERS_LAW_LAB/concentration/ConcentrationScreen' );
   var BLLConstants = require( 'BEERS_LAW_LAB/common/BLLConstants' );
+  var ConcentrationScreen = require( 'BEERS_LAW_LAB/concentration/ConcentrationScreen' );
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
 
