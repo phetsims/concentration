@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.4-phetio Fri Jul 13 2018 15:56:50 GMT-0600 (MDT)",
+  "comment": "# concentration 1.5.4-phetio Wed Jul 25 2018 02:42:28 GMT-0600 (MDT)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "HEAD"
@@ -17,11 +17,11 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "135e20644856fc923f67360d19084638be1b280d",
-    "branch": "HEAD"
+    "sha": "f027b982a70ab632e367df96354cbc3a77d7395f",
+    "branch": "concentration-1.5-phetio"
   },
   "concentration": {
-    "sha": "f6735545140acbdccbb2e8e26d93f974d84438b6",
+    "sha": "edbae9bd00c01c495f1dfefe1e9df654dcec05ce",
     "branch": "1.5-phetio"
   },
   "dot": {
