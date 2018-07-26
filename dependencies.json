@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.5-phetiorc.1 Wed Jul 25 2018 04:19:01 GMT-0600 (MDT)",
+  "comment": "# concentration 1.5.5-phetiorc.1 Thu Jul 26 2018 16:54:44 GMT-0600 (MDT)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "12f22a91141f3901b96c179f8ff80b64d80890ca",
+    "sha": "bf6dd6296d546f2befac9234a97299e753449391",
     "branch": "1.5-phetio"
   },
   "dot": {
@@ -61,8 +61,8 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "f91e5900a279136439c78cfd505e440cde4b6d58",
-    "branch": "HEAD"
+    "sha": "4776a6f9d5083b84c61a1118278a8fb6a0515511",
+    "branch": "concentration-1.5-phetio"
   },
   "scenery-phet": {
     "sha": "5ced4569a646e71adc900dcb918ca76644207a9e",
