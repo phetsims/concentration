@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.7-phetio Fri Mar 08 2019 13:02:16 GMT-0500 (EST)",
+  "comment": "# concentration 1.5.7-phetio Tue Mar 19 2019 16:07:48 GMT-0400 (EDT)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "HEAD"
@@ -14,14 +14,14 @@
   },
   "brand": {
     "sha": "87ef0976e737196827ab8d34cf4b4b11484d40d7",
-    "branch": "concentration-1.5-phetio"
-  },
-  "chipper": {
-    "sha": "f027b982a70ab632e367df96354cbc3a77d7395f",
     "branch": "HEAD"
   },
+  "chipper": {
+    "sha": "d82f68a371ee73ec56ace51dd4f749785983bfee",
+    "branch": "concentration-1.5-phetio"
+  },
   "concentration": {
-    "sha": "775f13a588def311c1fdc0b925939e9fc48206b3",
+    "sha": "c5482693f689de9017bc141adb098fd71fc06511",
     "branch": "1.5-phetio"
   },
   "dot": {
@@ -30,7 +30,7 @@
   },
   "joist": {
     "sha": "0b2579d6eebf1133a73a6ec663ca0209a3eed1d2",
-    "branch": "concentration-1.5-phetio"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "d506825f0e044f9715f94b2aac23dbd52b139a82",
@@ -56,6 +56,10 @@
     "sha": "4ffa8334e7c1d097a6f8648cc33dec44341577c4",
     "branch": "HEAD"
   },
+  "phetmarks": {
+    "sha": "6fa44ee0b524af471777135867df0cb9b2798aac",
+    "branch": "HEAD"
+  },
   "query-string-machine": {
     "sha": "53531ef190ec03d090c8eb123833b20d976b0a04",
     "branch": "HEAD"
@@ -79,9 +83,5 @@
   "tandem": {
     "sha": "9319527488a8d5d298e52f2b165db27fab7944a1",
     "branch": "HEAD"
-  },
-  "phetmarks": {
-    "branch": "master",
-    "sha": "6fa44ee0b524af471777135867df0cb9b2798aac"
   }
 }
