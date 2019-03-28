@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.13-rc.1 Wed Mar 20 2019 18:40:40 GMT-0400 (EDT)",
+  "comment": "# concentration 1.3.13-rc.1 Thu Mar 28 2019 12:17:34 GMT-0400 (EDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -13,15 +13,15 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "2a656be6903467f7e70d9dab87115e6b72c4a78c",
-    "branch": "HEAD"
+    "sha": "b040cac5c7f8c095e3a89a55c2deffb09a775a39",
+    "branch": "concentration-1.3"
   },
   "chipper": {
     "sha": "0ebc69131ba000fe6354d1bb2ed3bf904eadbbce",
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "6f6122d507b46a91b3c5b3aa222d2273e4822106",
+    "sha": "b5b40caf1e5183582aaa4e14790dd1efa1db0010",
     "branch": "1.3"
   },
   "dot": {
