@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.8-phetio Wed Apr 17 2019 12:59:47 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.5.9-phetiorc.1 Thu Apr 18 2019 09:00:50 GMT-0800 (Alaskan Daylight Time)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "HEAD"
@@ -18,10 +18,10 @@
   },
   "chipper": {
     "sha": "e9ff74c340089f21db7b6fff92dd2605afa87a03",
-    "branch": "concentration-1.5-phetio"
+    "branch": "HEAD"
   },
   "concentration": {
-    "sha": "eabf2dbdbe4978decc629ef47ad38b02dc438480",
+    "sha": "e31b1474246e1a8a4f503ce1ef38ae3c9f263a62",
     "branch": "1.5-phetio"
   },
   "dot": {
