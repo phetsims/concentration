@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.14-rc.1 Thu Apr 18 2019 08:58:21 GMT-0800 (Alaskan Daylight Time)",
+  "comment": "# concentration 1.3.14 Wed Apr 24 2019 15:10:19 GMT-0800 (Alaskan Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "23527ed032b85319ba0c870a2fe5a182f89fe4ba",
+    "sha": "097ff318848662835d4fd734ca72adf7f839aa65",
     "branch": "1.3"
   },
   "dot": {
