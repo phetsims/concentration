@@ -961,7 +961,7 @@ window.phet.phetio.phetioElementsBaseline =
     "concentration.concentrationScreen.view.dropperNode.button.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioEventType": "model",
-      "phetioFeatured": true,
+      "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
       "phetioReadOnly": false,
@@ -1456,7 +1456,7 @@ window.phet.phetio.phetioElementsBaseline =
     "concentration.concentrationScreen.view.removeSoluteButton.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioEventType": "model",
-      "phetioFeatured": true,
+      "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
       "phetioReadOnly": false,
@@ -1599,7 +1599,7 @@ window.phet.phetio.phetioElementsBaseline =
     "concentration.concentrationScreen.view.resetAllButton.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioEventType": "model",
-      "phetioFeatured": true,
+      "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
       "phetioReadOnly": false,
@@ -1984,7 +1984,7 @@ window.phet.phetio.phetioElementsBaseline =
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioEventType": "model",
-      "phetioFeatured": true,
+      "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
       "phetioReadOnly": false,
@@ -3216,7 +3216,7 @@ window.phet.phetio.phetioElementsBaseline =
     "concentration.navigationBar.phetButton.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioEventType": "model",
-      "phetioFeatured": true,
+      "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
       "phetioReadOnly": false,
