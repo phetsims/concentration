@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.15 Wed Jul 10 2019 15:43:09 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.3.15 Fri Jul 26 2019 15:21:00 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "bb1e3c99d036400af36684ebd78fea48a46062b2",
+    "sha": "0fec51d4f3cdd56b79f16615244ae39b1f8767cc",
     "branch": "1.3"
   },
   "dot": {
@@ -45,8 +45,8 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "a08e86508e347c4e7cde83406e1ea9e005df4cb0",
-    "branch": "HEAD"
+    "sha": "cc9ecaae3802304e53b0137e12bfc48cf552b956",
+    "branch": "concentration-1.3"
   },
   "phetmarks": {
     "sha": "3fdfece0fe0262594bb06856833b8b16be25deb8",
