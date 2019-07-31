@@ -4,7 +4,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.activeProperty": {
       "phetioDocumentation": "Indicates whether the screen is active.  For single-screen simulations, the screen is always active.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -16,7 +16,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -28,7 +28,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.concentrationMeter.body.locationProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -40,7 +40,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.concentrationMeter.probe.locationProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -52,7 +52,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.concentrationMeter.valueProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -64,7 +64,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.drainFaucet.flowRateProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -76,7 +76,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.dropper.dispensingProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -88,7 +88,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.dropper.emptyProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -100,7 +100,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.dropper.flowRateProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -112,7 +112,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.dropper.locationProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -124,7 +124,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.evaporator.enabledProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -136,7 +136,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.evaporator.evaporationRateProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -148,7 +148,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.precipitate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -160,7 +160,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.shaker.locationProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -172,7 +172,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.shakerParticles": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -184,7 +184,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.soluteFormProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -196,7 +196,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.soluteProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -208,7 +208,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.solution.concentrationProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -220,7 +220,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.solution.percentConcentrationProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -232,7 +232,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.solution.precipitateAmountProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -244,7 +244,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.solution.saturatedProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -256,7 +256,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.solution.soluteAmountProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -268,7 +268,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.solution.soluteGramsProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -280,7 +280,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.solution.volumeProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -292,7 +292,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.model.solventFaucet.flowRateProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -304,7 +304,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.cobaltChloride": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -316,7 +316,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.cobaltIINitrate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -328,7 +328,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.copperSulfate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -340,7 +340,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.drinkMix": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -352,7 +352,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.nickelIIChloride": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -364,7 +364,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.potassiumChromate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -376,7 +376,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.potassiumDichromate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -388,7 +388,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.potassiumPermanganate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -400,7 +400,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.solutes.sodiumChloride": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -412,7 +412,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -424,7 +424,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -436,7 +436,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -448,7 +448,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -460,7 +460,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel0": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -472,7 +472,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel0.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -484,7 +484,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel0.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -496,7 +496,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel0.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -508,7 +508,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel0.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -520,7 +520,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel1": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -532,7 +532,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel1.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -544,7 +544,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel1.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -556,7 +556,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel1.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -568,7 +568,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.tickLabel1.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -580,7 +580,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.beakerNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -592,7 +592,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -604,7 +604,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -616,7 +616,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.movableDragHandler": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -628,7 +628,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.movableDragHandler.dragAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": false,
@@ -640,7 +640,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.movableDragHandler.dragEndAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -652,7 +652,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.movableDragHandler.dragStartAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -664,7 +664,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.movableDragHandler.isDraggingProperty": {
       "phetioDocumentation": "Indicates whether the object is dragging",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -676,7 +676,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -688,7 +688,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -700,7 +700,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.readoutTextNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -712,7 +712,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.readoutTextNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -724,7 +724,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.readoutTextNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -736,7 +736,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.readoutTextNode.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -748,7 +748,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.readoutTextNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -760,7 +760,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.bodyNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -772,7 +772,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -784,7 +784,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -796,7 +796,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -808,7 +808,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode.movableDragHandler": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -820,7 +820,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode.movableDragHandler.dragAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": false,
@@ -832,7 +832,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode.movableDragHandler.dragEndAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -844,7 +844,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode.movableDragHandler.dragStartAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -856,7 +856,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode.movableDragHandler.isDraggingProperty": {
       "phetioDocumentation": "Indicates whether the object is dragging",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -868,7 +868,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -880,7 +880,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -892,7 +892,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.probeNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -904,7 +904,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.concentrationMeterNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -916,7 +916,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -928,7 +928,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode.inputListener": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -940,7 +940,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode.inputListener.dragAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": false,
@@ -952,7 +952,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode.inputListener.dragEndAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -964,7 +964,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode.inputListener.dragStartAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -976,7 +976,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode.inputListener.isDraggingProperty": {
       "phetioDocumentation": "Indicates whether the object is dragging",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -988,7 +988,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1000,7 +1000,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1012,7 +1012,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.drainFaucetNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1024,7 +1024,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1036,7 +1036,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.button": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1048,7 +1048,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.button.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1060,7 +1060,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.button.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1072,7 +1072,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.button.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1084,7 +1084,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.button.pressListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1096,7 +1096,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.button.pressListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1108,7 +1108,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.button.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1120,7 +1120,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.label": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1132,7 +1132,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.label.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1144,7 +1144,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.label.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1156,7 +1156,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.label.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1168,7 +1168,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.label.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1180,7 +1180,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.movableDragHandler": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1192,7 +1192,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.movableDragHandler.dragAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": false,
@@ -1204,7 +1204,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.movableDragHandler.dragEndAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1216,7 +1216,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.movableDragHandler.dragStartAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1228,7 +1228,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.movableDragHandler.isDraggingProperty": {
       "phetioDocumentation": "Indicates whether the object is dragging",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1240,7 +1240,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1252,7 +1252,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1264,7 +1264,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.dropperNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1276,7 +1276,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1288,7 +1288,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1300,7 +1300,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1312,7 +1312,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1324,7 +1324,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.enabledRangeProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1336,7 +1336,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1348,7 +1348,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1360,7 +1360,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumb": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1372,7 +1372,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumb.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1384,7 +1384,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumb.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1396,7 +1396,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumb.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1408,7 +1408,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumbInputListener": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1420,7 +1420,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumbInputListener.dragAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": false,
@@ -1432,7 +1432,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumbInputListener.dragEndAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1444,7 +1444,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumbInputListener.dragStartAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1456,7 +1456,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.thumbInputListener.isDraggingProperty": {
       "phetioDocumentation": "Indicates whether the object is dragging",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1468,7 +1468,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.track.trackInputListener": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1480,7 +1480,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.track.trackInputListener.dragAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": false,
@@ -1492,7 +1492,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.track.trackInputListener.dragEndAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1504,7 +1504,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.track.trackInputListener.dragStartAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1516,7 +1516,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.track.trackInputListener.isDraggingProperty": {
       "phetioDocumentation": "Indicates whether the object is dragging",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1528,7 +1528,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.valueProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1540,7 +1540,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.slider.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1552,7 +1552,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.evaporationControl.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1564,7 +1564,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1576,7 +1576,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1588,7 +1588,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1600,7 +1600,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1612,7 +1612,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.firedEmitter": {
       "phetioDocumentation": "Emits when the button is fired",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1624,7 +1624,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1636,7 +1636,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1648,7 +1648,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.pressListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1660,7 +1660,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.pressListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1672,7 +1672,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.textNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1684,7 +1684,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.textNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1696,7 +1696,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.textNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1708,7 +1708,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.textNode.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1720,7 +1720,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.textNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1732,7 +1732,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.removeSoluteButton.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1744,7 +1744,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton": {
       "phetioDocumentation": "The orange, round button that can be used to restore the initial state",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1756,7 +1756,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1768,7 +1768,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton.firedEmitter": {
       "phetioDocumentation": "Emits when the button is fired",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1780,7 +1780,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton.isFiringProperty": {
       "phetioDocumentation": "Temporarily becomes true while the Reset All button is firing.  Commonly used to disable audio effects during reset.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1792,7 +1792,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1804,7 +1804,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1816,7 +1816,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton.pressListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1828,7 +1828,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton.pressListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1840,7 +1840,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.resetAllButton.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1852,7 +1852,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1864,7 +1864,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.downArrowNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1876,7 +1876,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.downArrowNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1888,7 +1888,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.downArrowNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1900,7 +1900,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.downArrowNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1912,7 +1912,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.inputListener": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1924,7 +1924,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.inputListener.dragAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": false,
@@ -1936,7 +1936,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.inputListener.dragEndAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1948,7 +1948,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.inputListener.dragStartAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1960,7 +1960,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.inputListener.isDraggingProperty": {
       "phetioDocumentation": "Indicates whether the object is dragging",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1972,7 +1972,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.labelNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1984,7 +1984,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.labelNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -1996,7 +1996,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.labelNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2008,7 +2008,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.labelNode.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2020,7 +2020,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.labelNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2032,7 +2032,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2044,7 +2044,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2056,7 +2056,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.upArrowNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2068,7 +2068,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.upArrowNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2080,7 +2080,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.upArrowNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2092,7 +2092,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.upArrowNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2104,7 +2104,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.shakerNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2116,7 +2116,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2128,7 +2128,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2140,7 +2140,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2152,7 +2152,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2164,7 +2164,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2176,7 +2176,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2188,7 +2188,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button.firedEmitter": {
       "phetioDocumentation": "Emits when the button is fired",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2200,7 +2200,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2212,7 +2212,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2224,7 +2224,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button.pressListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2236,7 +2236,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button.pressListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2248,7 +2248,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.button.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2260,7 +2260,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.displayOnlyProperty": {
       "phetioDocumentation": "disables interaction with the ComboBox and makes it appear like a display that shows the current selection",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2272,7 +2272,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.enabledProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2284,7 +2284,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2296,7 +2296,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.cobaltChloride": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2308,7 +2308,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.cobaltChloride.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2320,7 +2320,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.cobaltChloride.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2332,7 +2332,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.cobaltChloride.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2344,7 +2344,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.cobaltIINitrate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2356,7 +2356,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.cobaltIINitrate.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2368,7 +2368,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.cobaltIINitrate.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2380,7 +2380,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.cobaltIINitrate.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2392,7 +2392,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.copperSulfate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2404,7 +2404,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.copperSulfate.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2416,7 +2416,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.copperSulfate.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2428,7 +2428,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.copperSulfate.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2440,7 +2440,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.drinkMix": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2452,7 +2452,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.drinkMix.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2464,7 +2464,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.drinkMix.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2476,7 +2476,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.drinkMix.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2488,7 +2488,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.fireAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2500,7 +2500,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.nickelIIChloride": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2512,7 +2512,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.nickelIIChloride.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2524,7 +2524,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.nickelIIChloride.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2536,7 +2536,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.nickelIIChloride.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2548,7 +2548,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2560,7 +2560,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2572,7 +2572,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumChromate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2584,7 +2584,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumChromate.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2596,7 +2596,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumChromate.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2608,7 +2608,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumChromate.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2620,7 +2620,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumDichromate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2632,7 +2632,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumDichromate.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2644,7 +2644,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumDichromate.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2656,7 +2656,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumDichromate.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2668,7 +2668,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumPermanganate": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2680,7 +2680,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumPermanganate.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2692,7 +2692,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumPermanganate.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2704,7 +2704,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.potassiumPermanganate.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2716,7 +2716,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.sodiumChloride": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2728,7 +2728,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.sodiumChloride.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2740,7 +2740,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.sodiumChloride.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2752,7 +2752,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.sodiumChloride.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2764,7 +2764,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.listBox.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2776,7 +2776,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2788,7 +2788,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2800,7 +2800,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.property": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2812,7 +2812,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteComboBox.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2824,7 +2824,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solidRadioButton": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2836,7 +2836,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solidRadioButton.enabledProperty": {
       "phetioDocumentation": "Determines whether the AquaRadioButton is enabled (pressable) or disabled (grayed-out)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2848,7 +2848,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solidRadioButton.inputListener.firedEmitter": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2860,7 +2860,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solidRadioButton.inputListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2872,7 +2872,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solidRadioButton.inputListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2884,7 +2884,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solidRadioButton.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2896,7 +2896,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solidRadioButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2908,7 +2908,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solidRadioButton.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2920,7 +2920,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solutionRadioButton": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2932,7 +2932,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solutionRadioButton.enabledProperty": {
       "phetioDocumentation": "Determines whether the AquaRadioButton is enabled (pressable) or disabled (grayed-out)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2944,7 +2944,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solutionRadioButton.inputListener.firedEmitter": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2956,7 +2956,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solutionRadioButton.inputListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2968,7 +2968,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solutionRadioButton.inputListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2980,7 +2980,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solutionRadioButton.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -2992,7 +2992,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solutionRadioButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3004,7 +3004,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.soluteFormNode.solutionRadioButton.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3016,7 +3016,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.soluteControls.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3028,7 +3028,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3040,7 +3040,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode.inputListener": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3052,7 +3052,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode.inputListener.dragAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": false,
@@ -3064,7 +3064,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode.inputListener.dragEndAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3076,7 +3076,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode.inputListener.dragStartAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3088,7 +3088,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode.inputListener.isDraggingProperty": {
       "phetioDocumentation": "Indicates whether the object is dragging",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3100,7 +3100,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3112,7 +3112,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3124,7 +3124,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.solventFaucetNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3136,7 +3136,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.concentrationScreen.view.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3148,7 +3148,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.activeProperty": {
       "phetioDocumentation": "Determines whether the entire simulation is running and processing user input. Setting this property to false pauses the simulation, and prevents user interaction.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3160,7 +3160,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.barrierRectangle": {
       "phetioDocumentation": "Semi-transparent barrier used to block input events when a dialog is shown, also fades out the background",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3172,7 +3172,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.barrierRectangle.inputListener.firedEmitter": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3184,7 +3184,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.barrierRectangle.inputListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3196,7 +3196,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.barrierRectangle.inputListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3208,7 +3208,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.barrierRectangle.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3220,7 +3220,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.barrierRectangle.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3232,7 +3232,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.barrierRectangle.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3244,7 +3244,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.browserTabVisibleProperty": {
       "phetioDocumentation": "Indicates whether the browser tab containing the simulation is currently visible",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3256,7 +3256,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.mouseDownAction": {
       "phetioDocumentation": "Emits when a mouse button is pressed",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3268,7 +3268,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.mouseMovedAction": {
       "phetioDocumentation": "Emits when the mouse is moved",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": true,
@@ -3280,7 +3280,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.mouseOutAction": {
       "phetioDocumentation": "Emits when the mouse moves out of the display",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3292,7 +3292,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.mouseOverAction": {
       "phetioDocumentation": "Emits when the mouse is moved over a Node",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3304,7 +3304,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.mouseUpAction": {
       "phetioDocumentation": "Emits when a mouse button is released",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3316,7 +3316,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.penCancelAction": {
       "phetioDocumentation": "Emits when a pen is canceled",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3328,7 +3328,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.penEndAction": {
       "phetioDocumentation": "Emits when a pen is lifted",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3340,7 +3340,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.penMoveAction": {
       "phetioDocumentation": "Emits when a pen is moved",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": true,
@@ -3352,7 +3352,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.penStartAction": {
       "phetioDocumentation": "Emits when a pen touches the screen",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3364,7 +3364,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.touchCancelAction": {
       "phetioDocumentation": "Emits when a touch is canceled",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3376,7 +3376,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.touchEndAction": {
       "phetioDocumentation": "Emits when a touch ends",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3388,7 +3388,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.touchMoveAction": {
       "phetioDocumentation": "Emits when a touch moves",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": true,
@@ -3400,7 +3400,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.touchStartAction": {
       "phetioDocumentation": "Emits when a touch begins",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3412,7 +3412,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.validatePointersAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": true,
@@ -3424,7 +3424,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.controller.input.wheelScrollAction": {
       "phetioDocumentation": "Emits when the mouse wheel scrolls",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": true,
@@ -3436,7 +3436,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.focusProperty": {
       "phetioDocumentation": "Stores the current focus for the simulation, null if there is not focus. This is not updated based on mouse or touch input, only keyboard and other alternative inputs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3448,7 +3448,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton": {
       "phetioDocumentation": "The button that appears at the right side of the navigation bar, which shows a menu when pressed",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3460,7 +3460,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3472,7 +3472,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.firedEmitter": {
       "phetioDocumentation": "Emits when the button is fired",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3484,7 +3484,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu": {
       "phetioDocumentation": "This menu is displayed when the PhET button is pressed.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3496,7 +3496,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.aboutMenuItem": {
       "phetioDocumentation": "This menu item shows a dialog with information about the simulation.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3508,7 +3508,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.aboutMenuItem.inputListener.firedEmitter": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3520,7 +3520,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.aboutMenuItem.inputListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3532,7 +3532,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.aboutMenuItem.inputListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3544,7 +3544,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.aboutMenuItem.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3556,7 +3556,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.aboutMenuItem.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3568,7 +3568,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.aboutMenuItem.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3580,7 +3580,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.screenshotMenuItem": {
       "phetioDocumentation": "This menu item captures a screenshot from the simulation and saves it to the file system.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3592,7 +3592,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.screenshotMenuItem.inputListener.firedEmitter": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3604,7 +3604,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.screenshotMenuItem.inputListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3616,7 +3616,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.screenshotMenuItem.inputListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3628,7 +3628,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.screenshotMenuItem.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3640,7 +3640,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.screenshotMenuItem.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3652,7 +3652,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.phetMenu.screenshotMenuItem.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3664,7 +3664,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.pickableProperty": {
       "phetioDocumentation": "Set whether the phetButton will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3676,7 +3676,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.pressListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3688,7 +3688,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.phetButton.pressListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs.",
       "phetioDynamicElement": false,
-      "phetioEventType": "user",
+      "phetioEventType": "USER",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3700,7 +3700,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.titleTextNode": {
       "phetioDocumentation": "Displays the title of the simulation in the navigation bar (bottom left)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3712,7 +3712,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.titleTextNode.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3724,7 +3724,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.titleTextNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3736,7 +3736,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.titleTextNode.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3748,7 +3748,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.navigationBar.titleTextNode.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3760,7 +3760,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.phetioCommandProcessor": {
       "phetioDocumentation": "Processes messages from the wrapper frame and returns the results. This serves as the source of PhET-iO data stream messages when commands are invoked from the wrapper.",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3772,7 +3772,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.resizeAction": {
       "phetioDocumentation": "Executes when the sim is resized",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": true,
@@ -3784,7 +3784,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.screenIndexProperty": {
       "phetioDocumentation": "Indicates which screen is selected (0-indexed)",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": true,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3796,7 +3796,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.soundEnabledProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
@@ -3808,7 +3808,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "concentration.general.stepSimulationAction": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": true,
       "phetioPlayback": true,
@@ -3820,7 +3820,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
     "phetioEngine": {
       "phetioDocumentation": "Central point for PhET-iO interoperability",
       "phetioDynamicElement": false,
-      "phetioEventType": "model",
+      "phetioEventType": "MODEL",
       "phetioFeatured": false,
       "phetioHighFrequency": false,
       "phetioPlayback": false,
