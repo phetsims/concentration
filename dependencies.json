@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.10-phetiorc.1 Thu Aug 01 2019 00:33:14 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.5.10-phetio Mon Aug 05 2019 15:14:46 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "9306e5238ce3fba5a0415a9cfe19f149c816db4e",
+    "sha": "d389798f38994155c2442c5b70d378d3d4d11e8b",
     "branch": "1.5-phetio"
   },
   "dot": {
