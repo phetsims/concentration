@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.10-phetio Mon Aug 05 2019 15:14:46 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.5.10-phetio Mon Aug 19 2019 13:14:55 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "d389798f38994155c2442c5b70d378d3d4d11e8b",
+    "sha": "0ae0cef1be9cac3ade2ee20c8f529a12c7a42a0d",
     "branch": "1.5-phetio"
   },
   "dot": {
@@ -29,8 +29,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "0b2579d6eebf1133a73a6ec663ca0209a3eed1d2",
-    "branch": "HEAD"
+    "sha": "74cd9aef34c4013b963efe4c12d895193d91853e",
+    "branch": "concentration-1.5-phetio"
   },
   "kite": {
     "sha": "d506825f0e044f9715f94b2aac23dbd52b139a82",
@@ -69,8 +69,8 @@
     "branch": "HEAD"
   },
   "scenery-phet": {
-    "sha": "5ced4569a646e71adc900dcb918ca76644207a9e",
-    "branch": "HEAD"
+    "sha": "bae578100dcf9cd843e8ac5eb6dfb87882700702",
+    "branch": "concentration-1.5-phetio"
   },
   "sherpa": {
     "sha": "7a7b88b0658d2ee65bdf66cf232a46a6c20c9917",
