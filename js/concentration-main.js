@@ -17,7 +17,7 @@ define( require => {
   // strings
   const concentrationTitleString = require( 'string!CONCENTRATION/concentration.title' );
 
-  var simOptions = {
+  const simOptions = {
     credits: {
       leadDesign: 'Julia Chamberlain',
       softwareDevelopment: 'Chris Malley (PixelZoom, Inc.)',
@@ -28,7 +28,7 @@ define( require => {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( concentrationTitleString,
+    const sim = new Sim( concentrationTitleString,
       [ new ConcentrationScreen( BLLConstants.CONCENTRATION_SCREEN_TANDEM ) ],
       simOptions );
     sim.start();
