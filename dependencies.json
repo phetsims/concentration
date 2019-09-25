@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.19-rc.1 Tue Sep 24 2019 11:13:01 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.3.19-rc.1 Wed Sep 25 2019 14:11:29 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "fc0e8d3d6e8e2ae79929060829cb29500bb047c8",
+    "sha": "6ee40e9d2bc7ec4192f39ed3d62ece588f8938e7",
     "branch": "1.3"
   },
   "dot": {
@@ -41,8 +41,8 @@
     "branch": "HEAD"
   },
   "phet-core": {
-    "sha": "c48bf32035dc5a4ed092ad611012fcbdeb5c6351",
-    "branch": "HEAD"
+    "sha": "ca47611ad21702be6d79cd10e7ab8e88e9288382",
+    "branch": "concentration-1.3"
   },
   "phetcommon": {
     "sha": "cc9ecaae3802304e53b0137e12bfc48cf552b956",
