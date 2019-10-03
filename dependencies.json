@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.19-rc.2 Wed Sep 25 2019 16:05:31 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.3.19 Thu Oct 03 2019 11:04:15 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "463b6c64bab5b9499a6c393598090a6f1004a8dd",
+    "sha": "ae7727abaccefd2611eb9edecf96bfd3d230eeb8",
     "branch": "1.3"
   },
   "dot": {
