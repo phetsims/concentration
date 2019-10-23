@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.14-phetiorc.1 Tue Oct 15 2019 17:54:22 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.5.14-phetiorc.1 Wed Oct 23 2019 14:58:14 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "79f917d108dba8249fc26a81a67a7dd9fb6d25b1",
+    "sha": "b54ef38cd0ffc7374e25cb95bae6cbf58492f949",
     "branch": "1.5-phetio"
   },
   "dot": {
@@ -29,8 +29,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "82c82e0a18f649533dc97798a1d5f9b9cdadd13f",
-    "branch": "HEAD"
+    "sha": "331ce6b7dbd8642b7cda89f4e1a992a29a2e91a9",
+    "branch": "concentration-1.5-phetio"
   },
   "kite": {
     "sha": "d506825f0e044f9715f94b2aac23dbd52b139a82",
