@@ -3810,7 +3810,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PhetMenuIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": false,
@@ -3823,7 +3823,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PhetioCapsuleIO<DialogIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3836,7 +3836,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "DialogIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.closeButton": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.closeButton": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3849,7 +3849,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NodeIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.closeButton.enabledProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.closeButton.enabledProperty": {
       "phetioDocumentation": "When disabled, the button is grayed out and cannot be pressed",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3862,7 +3862,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.closeButton.firedEmitter": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.closeButton.firedEmitter": {
       "phetioDocumentation": "Emits when the button is fired No arguments.",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3875,7 +3875,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "EmitterIO<>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.closeButton.opacityProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.closeButton.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3888,7 +3888,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.closeButton.pickableProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.closeButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3901,7 +3901,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<NullableIO<BooleanIO>>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.closeButton.pressListener.pressAction": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.closeButton.pressListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the Event. The arguments are:<br/><ol><li>event: EventIO</li></ol>",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3914,7 +3914,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ActionIO<EventIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.closeButton.pressListener.releaseAction": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.closeButton.pressListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs. The arguments are:<br/><ol><li>event: NullableIO<EventIO></li></ol>",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3927,7 +3927,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ActionIO<NullableIO<EventIO>>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.closeButton.visibleProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.closeButton.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3940,7 +3940,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.isShowingProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.isShowingProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3953,7 +3953,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.opacityProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3966,7 +3966,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.pickableProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3979,7 +3979,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<NullableIO<BooleanIO>>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.termsPrivacyAndLicensingText": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.termsPrivacyAndLicensingText": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -3992,7 +3992,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "RichTextIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.termsPrivacyAndLicensingText.opacityProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.termsPrivacyAndLicensingText.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4005,7 +4005,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.termsPrivacyAndLicensingText.pickableProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.termsPrivacyAndLicensingText.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4018,7 +4018,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<NullableIO<BooleanIO>>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.termsPrivacyAndLicensingText.textProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.termsPrivacyAndLicensingText.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4031,7 +4031,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<StringIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.termsPrivacyAndLicensingText.visibleProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.termsPrivacyAndLicensingText.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4044,7 +4044,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.thirdPartyCreditsLinkText": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.thirdPartyCreditsLinkText": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4057,7 +4057,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "RichTextIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.thirdPartyCreditsLinkText.opacityProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.thirdPartyCreditsLinkText.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4070,7 +4070,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.thirdPartyCreditsLinkText.pickableProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.thirdPartyCreditsLinkText.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4083,7 +4083,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<NullableIO<BooleanIO>>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.thirdPartyCreditsLinkText.textProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.thirdPartyCreditsLinkText.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4096,7 +4096,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<StringIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.thirdPartyCreditsLinkText.visibleProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.thirdPartyCreditsLinkText.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4109,7 +4109,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.translationCreditsLinkText": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.translationCreditsLinkText": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4122,7 +4122,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "RichTextIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.translationCreditsLinkText.opacityProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.translationCreditsLinkText.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4135,7 +4135,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.translationCreditsLinkText.pickableProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.translationCreditsLinkText.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4148,7 +4148,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<NullableIO<BooleanIO>>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.translationCreditsLinkText.textProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.translationCreditsLinkText.textProperty": {
       "phetioDocumentation": "Property for the displayed text",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4161,7 +4161,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<StringIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.translationCreditsLinkText.visibleProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.translationCreditsLinkText.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
@@ -4174,7 +4174,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogSingleton.prototype.visibleProperty": {
+    "concentration.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.prototype.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
       "phetioDynamicElementPrototype": true,
