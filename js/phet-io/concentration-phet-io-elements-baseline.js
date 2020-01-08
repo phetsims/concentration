@@ -27,7 +27,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ConcentrationModelIO"
     },
-    "concentration.concentrationScreen.model.concentrationMeter.body.locationProperty": {
+    "concentration.concentrationScreen.model.concentrationMeter.body.positionProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -40,7 +40,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<Vector2IO>"
     },
-    "concentration.concentrationScreen.model.concentrationMeter.probe.locationProperty": {
+    "concentration.concentrationScreen.model.concentrationMeter.probe.positionProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -118,7 +118,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "concentration.concentrationScreen.model.dropper.locationProperty": {
+    "concentration.concentrationScreen.model.dropper.positionProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -170,7 +170,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ObjectIO"
     },
-    "concentration.concentrationScreen.model.shaker.locationProperty": {
+    "concentration.concentrationScreen.model.shaker.positionProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
