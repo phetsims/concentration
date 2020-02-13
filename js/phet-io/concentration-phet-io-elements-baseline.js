@@ -1,6 +1,19 @@
 /* eslint-disable */
 window.phet.phetio.phetioElementsBaseline = assert &&
   {
+    "concentration.concentrationScreen": {
+      "phetioDocumentation": "",
+      "phetioDynamicElement": false,
+      "phetioEventType": "MODEL",
+      "phetioFeatured": false,
+      "phetioHighFrequency": false,
+      "phetioIsArchetype": false,
+      "phetioPlayback": false,
+      "phetioReadOnly": false,
+      "phetioState": false,
+      "phetioStudioControl": true,
+      "phetioTypeName": "ScreenIO"
+    },
     "concentration.concentrationScreen.activeProperty": {
       "phetioDocumentation": "Indicates whether the screen is currently displayed in the simulation.  For single-screen simulations, there is only one screen and it is always active.",
       "phetioDynamicElement": false,
@@ -4746,8 +4759,8 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ActionIO<NumberIO, NumberIO>"
     },
-    "concentration.general.screenIndexProperty": {
-      "phetioDocumentation": "Indicates which sim screen is selected (0-indexed). Note that the home screen does not have an index. To control the home screen see \"showHomeScreenProperty\".",
+    "concentration.general.screenProperty": {
+      "phetioDocumentation": "Which sim screen is selected, including the home screen",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
       "phetioFeatured": true,
@@ -4757,7 +4770,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioReadOnly": false,
       "phetioState": true,
       "phetioStudioControl": true,
-      "phetioTypeName": "NumberPropertyIO"
+      "phetioTypeName": "PropertyIO<ScreenIO>"
     },
     "concentration.general.soundManager.enabledProperty": {
       "phetioDocumentation": "If this sim contains sound, then this Property will toggle whether sound is enabled ordisabled.",
