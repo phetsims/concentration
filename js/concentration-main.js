@@ -1,4 +1,4 @@
-// Copyright 2013-2019, University of Colorado Boulder
+// Copyright 2013-2020, University of Colorado Boulder
 
 /**
  * Main entry point for the 'Concentration' sim.
@@ -27,7 +27,7 @@ define( require => {
     }
   };
 
-  SimLauncher.launch( function() {
+  SimLauncher.launch( () => {
     const sim = new Sim( concentrationTitleString,
       [ new ConcentrationScreen( BLLConstants.CONCENTRATION_SCREEN_TANDEM ) ],
       simOptions );
