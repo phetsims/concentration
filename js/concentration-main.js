@@ -5,32 +5,28 @@
  *
  * @author Chris Malley (PixelZoom, Inc.)
  */
-define( require => {
-  'use strict';
 
-  // modules
-  const BLLConstants = require( 'BEERS_LAW_LAB/common/BLLConstants' );
-  const ConcentrationScreen = require( 'BEERS_LAW_LAB/concentration/ConcentrationScreen' );
-  const Sim = require( 'JOIST/Sim' );
-  const SimLauncher = require( 'JOIST/SimLauncher' );
+import BLLConstants from '../../beers-law-lab/js/common/BLLConstants.js';
+import ConcentrationScreen from '../../beers-law-lab/js/concentration/ConcentrationScreen.js';
+import Sim from '../../joist/js/Sim.js';
+import SimLauncher from '../../joist/js/SimLauncher.js';
+import concentrationStrings from './concentration-strings.js';
 
-  // strings
-  const concentrationTitleString = require( 'string!CONCENTRATION/concentration.title' );
+const concentrationTitleString = concentrationStrings.concentration.title;
 
-  const simOptions = {
-    credits: {
-      leadDesign: 'Julia Chamberlain',
-      softwareDevelopment: 'Chris Malley (PixelZoom, Inc.)',
-      team: 'Kelly Lancaster, Emily B. Moore, Ariel Paul, Kathy Perkins',
-      qualityAssurance: 'Steele Dalton, Bryce Griebenow, Elise Morgan, Oliver Orejola, Benjamin Roberts, Bryan Yoelin',
-      thanks: 'Conversion of this simulation to HTML5 was funded by the Royal Society of Chemistry.'
-    }
-  };
+const simOptions = {
+  credits: {
+    leadDesign: 'Julia Chamberlain',
+    softwareDevelopment: 'Chris Malley (PixelZoom, Inc.)',
+    team: 'Kelly Lancaster, Emily B. Moore, Ariel Paul, Kathy Perkins',
+    qualityAssurance: 'Steele Dalton, Bryce Griebenow, Elise Morgan, Oliver Orejola, Benjamin Roberts, Bryan Yoelin',
+    thanks: 'Conversion of this simulation to HTML5 was funded by the Royal Society of Chemistry.'
+  }
+};
 
-  SimLauncher.launch( () => {
-    const sim = new Sim( concentrationTitleString,
-      [ new ConcentrationScreen( BLLConstants.CONCENTRATION_SCREEN_TANDEM ) ],
-      simOptions );
-    sim.start();
-  } );
+SimLauncher.launch( () => {
+  const sim = new Sim( concentrationTitleString,
+    [ new ConcentrationScreen( BLLConstants.CONCENTRATION_SCREEN_TANDEM ) ],
+    simOptions );
+  sim.start();
 } );
