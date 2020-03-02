@@ -1041,6 +1041,19 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "FaucetNodeIO"
     },
+    "concentration.concentrationScreen.view.drainFaucetNode.flowRateProperty": {
+      "phetioDocumentation": "",
+      "phetioDynamicElement": false,
+      "phetioEventType": "MODEL",
+      "phetioFeatured": false,
+      "phetioHighFrequency": false,
+      "phetioIsArchetype": false,
+      "phetioPlayback": false,
+      "phetioReadOnly": true,
+      "phetioState": true,
+      "phetioStudioControl": true,
+      "phetioTypeName": "LinkedElementIO"
+    },
     "concentration.concentrationScreen.view.drainFaucetNode.inputListener": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
@@ -3393,6 +3406,19 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": false,
       "phetioStudioControl": true,
       "phetioTypeName": "FaucetNodeIO"
+    },
+    "concentration.concentrationScreen.view.solventFaucetNode.flowRateProperty": {
+      "phetioDocumentation": "",
+      "phetioDynamicElement": false,
+      "phetioEventType": "MODEL",
+      "phetioFeatured": false,
+      "phetioHighFrequency": false,
+      "phetioIsArchetype": false,
+      "phetioPlayback": false,
+      "phetioReadOnly": true,
+      "phetioState": true,
+      "phetioStudioControl": true,
+      "phetioTypeName": "LinkedElementIO"
     },
     "concentration.concentrationScreen.view.solventFaucetNode.inputListener": {
       "phetioDocumentation": "",
