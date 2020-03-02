@@ -170,8 +170,8 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "concentration.concentrationScreen.model.precipitate": {
-      "phetioDocumentation": "",
+    "concentration.concentrationScreen.model.precipitate.particlesGroup": {
+      "phetioDocumentation": "The group for precipitate particles that are dynamically created",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
       "phetioFeatured": false,
@@ -181,7 +181,20 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioReadOnly": false,
       "phetioState": false,
       "phetioStudioControl": true,
-      "phetioTypeName": "ObjectIO"
+      "phetioTypeName": "PhetioGroupIO<PrecipitateParticleIO>"
+    },
+    "concentration.concentrationScreen.model.precipitate.particlesGroup.archetype": {
+      "phetioDocumentation": "",
+      "phetioDynamicElement": false,
+      "phetioEventType": "MODEL",
+      "phetioFeatured": false,
+      "phetioHighFrequency": false,
+      "phetioIsArchetype": true,
+      "phetioPlayback": false,
+      "phetioReadOnly": false,
+      "phetioState": true,
+      "phetioStudioControl": true,
+      "phetioTypeName": "PrecipitateParticleIO"
     },
     "concentration.concentrationScreen.model.shaker.positionProperty": {
       "phetioDocumentation": "",
@@ -196,8 +209,8 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<Vector2IO>"
     },
-    "concentration.concentrationScreen.model.shakerParticles": {
-      "phetioDocumentation": "",
+    "concentration.concentrationScreen.model.shakerParticles.particlesGroup": {
+      "phetioDocumentation": "The group for shaker particles that are dynamically created",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
       "phetioFeatured": false,
@@ -205,9 +218,22 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioIsArchetype": false,
       "phetioPlayback": false,
       "phetioReadOnly": false,
+      "phetioState": false,
+      "phetioStudioControl": true,
+      "phetioTypeName": "PhetioGroupIO<ShakerParticleIO>"
+    },
+    "concentration.concentrationScreen.model.shakerParticles.particlesGroup.archetype": {
+      "phetioDocumentation": "",
+      "phetioDynamicElement": false,
+      "phetioEventType": "MODEL",
+      "phetioFeatured": false,
+      "phetioHighFrequency": false,
+      "phetioIsArchetype": true,
+      "phetioPlayback": false,
+      "phetioReadOnly": false,
       "phetioState": true,
       "phetioStudioControl": true,
-      "phetioTypeName": "ShakerParticlesIO"
+      "phetioTypeName": "ShakerParticleIO"
     },
     "concentration.concentrationScreen.model.soluteFormProperty": {
       "phetioDocumentation": "",
