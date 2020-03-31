@@ -10,7 +10,7 @@ import BLLConstants from '../../beers-law-lab/js/common/BLLConstants.js';
 import ConcentrationScreen from '../../beers-law-lab/js/concentration/ConcentrationScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import SimLauncher from '../../joist/js/SimLauncher.js';
-import concentrationStrings from './concentration-strings.js';
+import concentrationStrings from './concentrationStrings.js';
 
 const concentrationTitleString = concentrationStrings.concentration.title;
 
