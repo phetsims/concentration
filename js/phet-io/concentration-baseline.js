@@ -366,7 +366,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioTypeName": "NumberPropertyIO"
     },
     "concentration.concentrationScreen.nameProperty": {
-      "phetioDocumentation": "The name of the screen. Changing this value will update the screen name for the screen's corresponding button on the navigation bar and home screen, if they exist. May be null for single-screen simulations.",
+      "phetioDocumentation": "The name of the screen. Changing this value will update the screen name for the screen's corresponding button on the navigation bar and home screen, if they exist.",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
       "phetioFeatured": true,
