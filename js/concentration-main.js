@@ -12,8 +12,6 @@ import Sim from '../../joist/js/Sim.js';
 import SimLauncher from '../../joist/js/SimLauncher.js';
 import concentrationStrings from './concentrationStrings.js';
 
-const concentrationTitleString = concentrationStrings.concentration.title;
-
 const simOptions = {
   credits: {
     leadDesign: 'Julia Chamberlain',
@@ -25,7 +23,7 @@ const simOptions = {
 };
 
 SimLauncher.launch( () => {
-  const sim = new Sim( concentrationTitleString,
+  const sim = new Sim( concentrationStrings.concentration.title,
     [ new ConcentrationScreen( BLLConstants.CONCENTRATION_SCREEN_TANDEM ) ],
     simOptions );
   sim.start();
