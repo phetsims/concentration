@@ -9,7 +9,7 @@
 import BLLConstants from '../../beers-law-lab/js/common/BLLConstants.js';
 import ConcentrationScreen from '../../beers-law-lab/js/concentration/ConcentrationScreen.js';
 import Sim from '../../joist/js/Sim.js';
-import SimLauncher from '../../joist/js/SimLauncher.js';
+import simLauncher from '../../joist/js/simLauncher.js';
 import concentrationStrings from './concentrationStrings.js';
 
 const simOptions = {
@@ -22,7 +22,7 @@ const simOptions = {
   }
 };
 
-SimLauncher.launch( () => {
+simLauncher.launch( () => {
   const sim = new Sim( concentrationStrings.concentration.title,
     [ new ConcentrationScreen( BLLConstants.CONCENTRATION_SCREEN_TANDEM ) ],
     simOptions );
