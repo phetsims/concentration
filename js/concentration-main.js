@@ -12,19 +12,12 @@ import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import concentrationStrings from './concentrationStrings.js';
 
-const simOptions = {
-  credits: {
-    leadDesign: 'Julia Chamberlain',
-    softwareDevelopment: 'Chris Malley (PixelZoom, Inc.)',
-    team: 'Kelly Lancaster, Emily B. Moore, Ariel Paul, Kathy Perkins',
-    qualityAssurance: 'Steele Dalton, Bryce Griebenow, Elise Morgan, Oliver Orejola, Benjamin Roberts, Bryan Yoelin',
-    thanks: 'Conversion of this simulation to HTML5 was funded by the Royal Society of Chemistry.'
-  }
-};
-
 simLauncher.launch( () => {
-  const sim = new Sim( concentrationStrings.concentration.title,
-    [ new ConcentrationScreen( { tandem: BLLConstants.CONCENTRATION_SCREEN_TANDEM } ) ],
-    simOptions );
+  const screens = [
+    new ConcentrationScreen( { tandem: BLLConstants.CONCENTRATION_SCREEN_TANDEM } )
+  ];
+  const sim = new Sim( concentrationStrings.concentration.title, screens, {
+    credits: BLLConstants.CREDITS
+  } );
   sim.start();
 } );
