@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.3.20 Mon May 10 2021 14:12:21 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.3.21-rc.1 Fri May 14 2021 02:56:49 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "cf1a7cbcc112444a1afae4e28e9a87df971023f7",
+    "sha": "3bd42392772e624374585a2ddda4c3b8700e00b8",
     "branch": "1.3"
   },
   "dot": {
@@ -54,7 +54,7 @@
   },
   "scenery": {
     "sha": "7ad875ffd16e12056e5ec1b88422edca87f16ff8",
-    "branch": "concentration-1.3"
+    "branch": "HEAD"
   },
   "scenery-phet": {
     "sha": "69ad3a2822a895b7279d45f1a55542298e48ffc4",
