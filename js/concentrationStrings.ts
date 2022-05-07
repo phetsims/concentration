@@ -9,7 +9,7 @@ import concentration from './concentration.js';
 
 type StringsType = {
   'concentration': {
-    'title': string
+    'title': string;
   }
 };
 
