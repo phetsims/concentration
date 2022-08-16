@@ -5,11 +5,13 @@
  */
 /* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
+import TReadOnlyProperty from '../../axon/js/TReadOnlyProperty.js';
 import concentration from './concentration.js';
 
 type StringsType = {
   'concentration': {
     'title': string;
+    'titleProperty': TReadOnlyProperty<string>;
   }
 };
 
