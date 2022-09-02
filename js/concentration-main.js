@@ -16,7 +16,7 @@ simLauncher.launch( () => {
   const screens = [
     new ConcentrationScreen( { tandem: BLLConstants.CONCENTRATION_SCREEN_TANDEM } )
   ];
-  const sim = new Sim( concentrationStrings.concentration.title, screens, {
+  const sim = new Sim( concentrationStrings.concentration.titleStringProperty, screens, {
     credits: BLLConstants.CREDITS
   } );
   sim.start();
