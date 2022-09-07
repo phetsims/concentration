@@ -15,8 +15,8 @@ type StringsType = {
   }
 };
 
-const concentrationStrings = getStringModule( 'CONCENTRATION' ) as StringsType;
+const ConcentrationStrings = getStringModule( 'CONCENTRATION' ) as StringsType;
 
-concentration.register( 'concentrationStrings', concentrationStrings );
+concentration.register( 'ConcentrationStrings', ConcentrationStrings );
 
-export default concentrationStrings;
+export default ConcentrationStrings;
