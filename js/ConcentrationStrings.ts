@@ -10,7 +10,6 @@ import concentration from './concentration.js';
 
 type StringsType = {
   'concentration': {
-    'title': string;
     'titleStringProperty': TReadOnlyProperty<string>;
   }
 };
