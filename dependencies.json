@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.5.16-phetio Wed Sep 22 2021 21:41:37 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.5.17-phetiorc.1 Sat Nov 26 2022 10:41:08 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "845be6b591cb746b0b05b7023208aef2e49a8855",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "d974ce588d9a2c386834949213da3267ad7c7e8a",
+    "sha": "2f2c83f6b70233104ff9b139013a4e2fe43af95c",
     "branch": "1.5-phetio"
   },
   "dot": {
