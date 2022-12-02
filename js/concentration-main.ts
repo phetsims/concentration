@@ -14,7 +14,7 @@ import ConcentrationStrings from './ConcentrationStrings.js';
 
 simLauncher.launch( () => {
   const screens = [
-    new ConcentrationScreen( { tandem: Tandem.ROOT.createTandem( 'concentrationScreen' ) } )
+    new ConcentrationScreen( Tandem.ROOT.createTandem( 'concentrationScreen' ) )
   ];
   const sim = new BLLSim( ConcentrationStrings.concentration.titleStringProperty, screens );
   sim.start();
