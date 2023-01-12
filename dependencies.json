@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "7839dc2ab3dab35d3b84935b96423ae80d99807c",
+    "sha": "250869984ca531afb03c06a280254341db0a1e5e",
     "branch": "1.5-phetio"
   },
   "dot": {
@@ -53,7 +53,7 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "19b0d7f089ccfc29d14db23cd68d0fdb445e106d",
+    "sha": "a9f2f9fc5383ece5725b7fbef94d2cca73a17f9c",
     "branch": "HEAD"
   },
   "phetmarks": {
