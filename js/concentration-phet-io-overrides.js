@@ -114,5 +114,8 @@ window.phet.preloads.phetio.phetioElementsOverrides =
     },
     "concentration.global.model.solutes.sodiumChloride": {
       "phetioFeatured": true
+    },
+    "concentration.global.model.solutes.sodiumChloride.formulaProperty": {
+      "phetioFeatured": true
     }
   };
