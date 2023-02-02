@@ -26,6 +26,9 @@
     "simFeatures": {
       "supportsDynamicLocale": true
     },
+    "phet-io": {
+      "compareDesignedAPIChanges": true
+    },
     "published": true
   },
   "eslintConfig": {
