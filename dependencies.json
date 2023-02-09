@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.7.0-rc.2 Thu Feb 09 2023 09:02:09 GMT-0700 (Mountain Standard Time)",
+  "comment": "# concentration 1.7.0-rc.2 Thu Feb 09 2023 09:16:12 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "c13a8c7741d95fbd8e37619c66ebcca8686dffe7",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "d035229f5fe70010717d211469461f16281b4d5a",
+    "sha": "5d14302d681b85f99b3ba6b13b54233f9422f5c4",
     "branch": "1.7"
   },
   "dot": {
@@ -53,8 +53,8 @@
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "fffcb31a28113f733abedcd1451907e46a7704c6",
-    "branch": "HEAD"
+    "sha": "6102463858fa7809bac486a8ab51a98e2ae40789",
+    "branch": "concentration-1.7"
   },
   "phet-io-wrappers": {
     "sha": "c251720908ece07a152a03666cc7033ea0223be1",
