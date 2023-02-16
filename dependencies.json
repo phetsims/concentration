@@ -17,11 +17,11 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "a929dbc58fdbdac6fc8c22164d500a6caa0ef30a",
+    "sha": "d60f30aaba9bab4b1ae44a4b9eb97001954b7392",
     "branch": "concentration-1.7"
   },
   "concentration": {
-    "sha": "6781fdfbd5964530e649354660496692403037ec",
+    "sha": "91654faa9d5015564a142ff8e158847c0b964491",
     "branch": "1.7"
   },
   "dot": {
