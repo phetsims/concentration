@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.7.0-rc.2 Wed Feb 15 2023 12:12:15 GMT-0700 (Mountain Standard Time)",
+  "comment": "# concentration 1.7.0-rc.3 Fri Feb 17 2023 08:49:25 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "c13a8c7741d95fbd8e37619c66ebcca8686dffe7",
     "branch": "HEAD"
@@ -10,7 +10,7 @@
   },
   "beers-law-lab": {
     "sha": "8f2eddf18327955b2cddf189481f5929f7ed4677",
-    "branch": "concentration-1.7"
+    "branch": "HEAD"
   },
   "brand": {
     "sha": "c73b827b08b394ced9442e88e5ef33755f50ad73",
@@ -18,10 +18,10 @@
   },
   "chipper": {
     "sha": "d60f30aaba9bab4b1ae44a4b9eb97001954b7392",
-    "branch": "concentration-1.7"
+    "branch": "HEAD"
   },
   "concentration": {
-    "sha": "91654faa9d5015564a142ff8e158847c0b964491",
+    "sha": "fbab964512aa819317255031947b4c0bff094bf1",
     "branch": "1.7"
   },
   "dot": {
@@ -30,7 +30,7 @@
   },
   "joist": {
     "sha": "ca04e52e0cada54f142b55835f75baf2bda005c5",
-    "branch": "concentration-1.7"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "e38653fe65c019e954a9393b2c13a8f202cc1c09",
