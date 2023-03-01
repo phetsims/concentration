@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.7.1 Wed Mar 01 2023 18:18:26 GMT-0500 (Eastern Standard Time)",
+  "comment": "# concentration 1.7.2-rc.1 Wed Mar 01 2023 18:27:25 GMT-0500 (Eastern Standard Time)",
   "assert": {
     "sha": "c13a8c7741d95fbd8e37619c66ebcca8686dffe7",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "7fbf4f18328db1421543022939b311b83fb73cf2",
+    "sha": "64f80241fa5aa70ca65af81d4b0b9dcf6354207d",
     "branch": "1.7"
   },
   "dot": {
@@ -54,7 +54,7 @@
   },
   "phet-io-sim-specific": {
     "sha": "bd885c12f6c3fe5733397f982a750e2d20efb1a4",
-    "branch": "concentration-1.7"
+    "branch": "HEAD"
   },
   "phet-io-wrappers": {
     "sha": "c251720908ece07a152a03666cc7033ea0223be1",
@@ -86,7 +86,7 @@
   },
   "studio": {
     "sha": "8c45596361b18519d4291b7a449eb6212a300851",
-    "branch": "concentration-1.7"
+    "branch": "HEAD"
   },
   "sun": {
     "sha": "c932983b3b2be473872c0e4bab8350522571f6c9",
