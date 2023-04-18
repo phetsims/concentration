@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.7.2 Mon Mar 06 2023 15:25:35 GMT-0500 (Eastern Standard Time)",
+  "comment": "# concentration 1.7.3-rc.1 Tue Apr 18 2023 17:24:56 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "c13a8c7741d95fbd8e37619c66ebcca8686dffe7",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "0eb90c1d6a016dc01fcd144075fd2b66a931aaf4",
+    "sha": "a9927ff819b8724234c003d515a89dd7571a7bd9",
     "branch": "1.7"
   },
   "dot": {
