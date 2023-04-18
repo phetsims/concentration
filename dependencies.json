@@ -5,7 +5,7 @@
     "branch": "HEAD"
   },
   "axon": {
-    "sha": "9ba1b065d31b9d8071f458095ea7d54ca0962f79",
+    "sha": "86ebc075d7bb982efc770b9d373e953aaab50f0a",
     "branch": "HEAD"
   },
   "beers-law-lab": {
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "83a524a45626af49dfdcb8dcd11f6471efda95dd",
+    "sha": "2535cb0299043b72067dec086b3bad2202189d5d",
     "branch": "1.7"
   },
   "dot": {
@@ -97,7 +97,7 @@
     "branch": "HEAD"
   },
   "tandem": {
-    "sha": "717545f1c91997a857cc15a11996ed32a884e602",
+    "sha": "6f44484b2de72c46111c2549c7ff2d522cd36d4b",
     "branch": "HEAD"
   },
   "twixt": {
