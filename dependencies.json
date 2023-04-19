@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "a9927ff819b8724234c003d515a89dd7571a7bd9",
+    "sha": "b6fe42e8668e925477b16cba65e5c0d46cdc10ef",
     "branch": "1.7"
   },
   "dot": {
@@ -85,7 +85,7 @@
     "branch": "HEAD"
   },
   "studio": {
-    "sha": "e63ec3ce5a9cbe28294dcdfb130f2923206f05e0",
+    "sha": "48b23ecc4be6dbe54d0ef78c6abedf112cdb532b",
     "branch": "HEAD"
   },
   "sun": {
