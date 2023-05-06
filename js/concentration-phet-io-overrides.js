@@ -70,18 +70,6 @@ window.phet.preloads.phetio.phetioElementsOverrides =
     "concentration.concentrationScreen.view.solventFaucetNode.visibleProperty": {
       "phetioFeatured": true
     },
-    "concentration.global.model.preferences.beakerUnitsProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.preferences.concentrationMeterUnitsProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.preferences.showSoluteAmountProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.preferences.showSolutionVolumeProperty": {
-      "phetioFeatured": true
-    },
     "concentration.global.model.solutes.cobaltChloride.formulaProperty": {
       "phetioFeatured": true
     },
