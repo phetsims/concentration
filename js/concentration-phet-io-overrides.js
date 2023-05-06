@@ -19,40 +19,13 @@ window.phet.preloads.phetio.phetioElementsOverrides =
     "concentration.concentrationScreen.view.solventFaucetNode.visibleProperty": {
       "phetioFeatured": true
     },
-    "concentration.global.model.solutes.cobaltChloride.formulaProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.solutes.cobaltIINitrate.formulaProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.solutes.copperSulfate.formulaProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.solutes.drinkMix.formulaProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.solutes.nickelIIChloride.formulaProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.solutes.potassiumChromate.formulaProperty": {
-      "phetioFeatured": true
-    },
     "concentration.global.model.solutes.potassiumDichromate": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.solutes.potassiumDichromate.formulaProperty": {
       "phetioFeatured": true
     },
     "concentration.global.model.solutes.potassiumPermanganate": {
       "phetioFeatured": true
     },
-    "concentration.global.model.solutes.potassiumPermanganate.formulaProperty": {
-      "phetioFeatured": true
-    },
     "concentration.global.model.solutes.sodiumChloride": {
-      "phetioFeatured": true
-    },
-    "concentration.global.model.solutes.sodiumChloride.formulaProperty": {
       "phetioFeatured": true
     }
   };
