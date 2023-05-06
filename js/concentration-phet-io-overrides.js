@@ -7,22 +7,10 @@ window.phet.preloads.phetio.phetioElementsOverrides =
     "concentration.concentrationScreen.model.concentrationMeter.valueProperty": {
       "phetioFeatured": true
     },
-    "concentration.concentrationScreen.model.dropper.isEmptyProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.dropper.visibleProperty": {
-      "phetioFeatured": true
-    },
     "concentration.concentrationScreen.model.evaporator.enabledProperty": {
       "phetioFeatured": true
     },
     "concentration.concentrationScreen.model.evaporator.evaporationRateProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.shaker.isEmptyProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.shaker.visibleProperty": {
       "phetioFeatured": true
     },
     "concentration.concentrationScreen.model.soluteFormProperty": {
