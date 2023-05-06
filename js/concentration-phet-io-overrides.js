@@ -1,45 +1,6 @@
 /* eslint-disable */
 window.phet.preloads.phetio.phetioElementsOverrides =
   {
-    "concentration.concentrationScreen.model.concentrationMeter.probe.positionProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.concentrationMeter.valueProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.evaporator.enabledProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.evaporator.evaporationRateProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.soluteFormProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.soluteProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.solution.concentrationProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.solution.isSaturatedProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.solution.percentConcentrationProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.solution.precipitateMolesProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.solution.soluteGramsProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.solution.soluteMolesProperty": {
-      "phetioFeatured": true
-    },
-    "concentration.concentrationScreen.model.solution.volumeProperty": {
-      "phetioFeatured": true
-    },
     "concentration.concentrationScreen.view.concentrationMeterNode.visibleProperty": {
       "phetioFeatured": true
     },
