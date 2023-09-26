@@ -24,7 +24,10 @@
     "simulation": true,
     "supportsOutputJS": true,
     "simFeatures": {
-      "supportsDynamicLocale": true
+      "supportsDynamicLocale": true,
+      "colorProfiles": [
+        "default"
+      ]
     },
     "phet-io": {
       "compareDesignedAPIChanges": true
