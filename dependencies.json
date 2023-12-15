@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "060eb89008a7cfd1aaed90081f9942170d16d82b",
+    "sha": "29f14d56119ea290438af68a022955a8a8b5ff43",
     "branch": "1.7"
   },
   "dot": {
@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "phet-io": {
-    "sha": "eba58ee270b931c39229b08483619aa0a474d565",
+    "sha": "5be9a9d02bf8f30402ff8eeff0e293e4136c394a",
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
