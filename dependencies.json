@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "ff64b3728b2e96385e160a26f53e3c91ec749b90",
+    "sha": "060eb89008a7cfd1aaed90081f9942170d16d82b",
     "branch": "1.7"
   },
   "dot": {
@@ -49,15 +49,15 @@
     "branch": "HEAD"
   },
   "phet-io": {
-    "sha": "4777d3114ed0f15df5451fa83fa9e886b6b14fa5",
+    "sha": "eba58ee270b931c39229b08483619aa0a474d565",
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "bd885c12f6c3fe5733397f982a750e2d20efb1a4",
+    "sha": "4b2091dc72c1f3210eff14dc2f1085001467bc15",
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
-    "sha": "dba214645d91469b6a775e5384c8bf2b7f477de3",
+    "sha": "f7b986b866fb7a3656c27ee97132c83888eeb75d",
     "branch": "HEAD"
   },
   "phetcommon": {
