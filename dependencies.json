@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.7.8-rc.2 Wed Jan 03 2024 14:31:26 GMT-0700 (Mountain Standard Time)",
+  "comment": "# concentration 1.7.8 Wed Jan 03 2024 17:56:09 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "c13a8c7741d95fbd8e37619c66ebcca8686dffe7",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "7e8c05e1f534a91eefdca77bb91f7bdd5d10accf",
+    "sha": "e548315bd72f455166035b6bb4bdc1d6fb51468c",
     "branch": "1.7"
   },
   "dot": {
