@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "f042e797fe0e13cfd948b82bcd2d0571e4be884a",
+    "sha": "33007558093e7567468bbd3cf25bab82d430c0ec",
     "branch": "1.5-phetio"
   },
   "dot": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "f43f3e6e3a3b202f8eb9ad32fcbdea11ce674a60",
+    "sha": "83895f75a4a8657b2aa7b595b7ad1e835a594cdb",
     "branch": "HEAD"
   },
   "kite": {
