@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "112a1942a68d35bffd39fe59e67f2dfac27ef251",
+    "sha": "1c7eebcd4103fea5eba9a3a2fac1d31d83156c0d",
     "branch": "1.7"
   },
   "dot": {
@@ -61,7 +61,7 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "4483efcf9eb1b8ed8c40413d87998a9c7b6c7bdf",
+    "sha": "b09210641591d7802a0e3ad761d004fffda5854b",
     "branch": "HEAD"
   },
   "phetmarks": {
