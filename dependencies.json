@@ -17,11 +17,11 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "20649c18c3f3892260d5d588cacf2d6283f31732",
+    "sha": "35743c44ad1f2e5091333ce240942a38a51c7c45",
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "801339f50f62845a208c7d7817152c80df7ded6a",
+    "sha": "588c2583a15f641d1b9d45239b35b24514bc0355",
     "branch": "1.5-phetio"
   },
   "dot": {
