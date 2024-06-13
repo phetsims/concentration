@@ -17,11 +17,11 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "7e48a0950590802655b7ef9390cf72ac8fb5c451",
+    "sha": "b8ed3563b996a58c64483c90392db0e5f6254542",
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "ead08593a85e2a569eae5d3db4c619b4d100c5ec",
+    "sha": "6d1cf0d6caef6cf2d35988a5a72f98ecfe93605d",
     "branch": "1.7"
   },
   "dot": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "6de44d60d7a15b6846a1afe4ea64f9b6c9898caf",
+    "sha": "8c5f9558046ce86d2fe3763706aeec48aa5b2b8e",
     "branch": "HEAD"
   },
   "kite": {
