@@ -5,5 +5,16 @@
     "images/**/*",
     "mipmaps/**/*",
     "sounds/**/*"
+  ],
+  "references": [
+    {
+      "path": "../beers-law-lab/tsconfig.json"
+    },
+    {
+      "path": "../nitroglycerin/tsconfig.json"
+    },
+    {
+      "path": "../chipper/tsconfig/buildjson"
+    }
   ]
 }

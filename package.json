@@ -51,6 +51,11 @@
               "ts-nocheck": true
             }
           ]
+        },
+        "parserOptions": {
+          "project": [
+            "../concentration/tsconfig.json"
+          ]
         }
       }
     ]
