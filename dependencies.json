@@ -17,11 +17,11 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "90a9488ba9bb180deb3b8cefacd64bce0dc25e3c",
+    "sha": "e2089aeee080749679b1fdfcfc8dd5c3b30dac59",
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "38881f85d154562b557ef41652cbef4a4d2130b4",
+    "sha": "30a659702643623772ab743487996cb7a6932ab6",
     "branch": "1.7"
   },
   "dot": {
@@ -57,7 +57,7 @@
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
-    "sha": "159992e48a0e5ebc4013a2c7356254f98dc911d3",
+    "sha": "4f8c54b40612ceccb0998461b8d0debdb1689c7e",
     "branch": "HEAD"
   },
   "phetcommon": {
