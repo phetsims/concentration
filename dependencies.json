@@ -13,15 +13,15 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "c73b827b08b394ced9442e88e5ef33755f50ad73",
+    "sha": "7a9e089916139668fa23e304c71a8abeb1711b4f",
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "0df7910e0e7a451a27a8b2a465c81c627d6544fa",
+    "sha": "8bad680fbee47a22f1ae80db4cf0531355e5c1c3",
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "48b00a6dd1eb70dd1a3333ab8bf62dd85f6e0cf7",
+    "sha": "489f71169e5b30249e15bfb14746ce80d9751983",
     "branch": "1.7"
   },
   "dot": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "0ae9ce79a7b40c3c17d2516c74d7dc8ff1d6818b",
+    "sha": "184bb24d785fc2a563b7fef5bc97e3d59726c191",
     "branch": "HEAD"
   },
   "kite": {
