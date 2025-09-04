@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.8.0-rc.1 Thu Sep 04 2025 14:56:15 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.8.0-rc.1 Thu Sep 04 2025 15:46:20 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "1a4637cfff70e7e8b0844dc43848a86ae89b4cf5",
     "branch": "HEAD"
@@ -9,8 +9,8 @@
     "branch": "HEAD"
   },
   "beers-law-lab": {
-    "sha": "5eb6b352eadf3ed7986c01109946f38b383b181b",
-    "branch": "HEAD"
+    "sha": "cb88fc38fcd25e51765f0c3daa455a8cc485b98b",
+    "branch": "concentration-1.8"
   },
   "brand": {
     "sha": "d25022090316640bbb47b8265b8de7b1b4e1e6c2",
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "0f0b75473f2ed99237f0867891f14579bf584b79",
+    "sha": "769db67e78381e462b9e0ef7e4953bd0d524fcc5",
     "branch": "1.8"
   },
   "dot": {
@@ -54,7 +54,7 @@
   },
   "phet-io-sim-specific": {
     "sha": "fe25b0859d140b982776d899161185cd7bc27ffc",
-    "branch": "concentration-1.8"
+    "branch": "HEAD"
   },
   "phet-io-wrappers": {
     "sha": "161c0378b9d64222d346d94bd9a87955c4524697",
