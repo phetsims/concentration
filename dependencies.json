@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.8.0-dev.4 Fri Jun 27 2025 12:25:07 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.8.0-rc.1 Thu Sep 04 2025 14:56:15 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "1a4637cfff70e7e8b0844dc43848a86ae89b4cf5",
     "branch": "HEAD"
@@ -21,8 +21,8 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "65248d48b2e9ed829b6512453056ddf72a5a697d",
-    "branch": "main"
+    "sha": "0f0b75473f2ed99237f0867891f14579bf584b79",
+    "branch": "1.8"
   },
   "dot": {
     "sha": "fc882c815833b67ec5e5a093fb972aef234ff424",
@@ -53,12 +53,8 @@
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "acb5e79f5edc320f4d316c8b82d1f6ad84b2c6ed",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-lab-book": {
-    "sha": "5ad653e46fd2611d4f3fd1d236afeb9e32d8c207",
-    "branch": "HEAD"
+    "sha": "fe25b0859d140b982776d899161185cd7bc27ffc",
+    "branch": "concentration-1.8"
   },
   "phet-io-wrappers": {
     "sha": "161c0378b9d64222d346d94bd9a87955c4524697",
