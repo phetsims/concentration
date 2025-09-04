@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.8.0-rc.1 Thu Sep 04 2025 15:46:20 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# concentration 1.8.0-rc.2 Thu Sep 04 2025 16:00:02 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "1a4637cfff70e7e8b0844dc43848a86ae89b4cf5",
     "branch": "HEAD"
@@ -10,7 +10,7 @@
   },
   "beers-law-lab": {
     "sha": "cb88fc38fcd25e51765f0c3daa455a8cc485b98b",
-    "branch": "concentration-1.8"
+    "branch": "HEAD"
   },
   "brand": {
     "sha": "d25022090316640bbb47b8265b8de7b1b4e1e6c2",
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "769db67e78381e462b9e0ef7e4953bd0d524fcc5",
+    "sha": "318a7e4c62d798fb494bf7020b0c8cb7ded63a08",
     "branch": "1.8"
   },
   "dot": {
