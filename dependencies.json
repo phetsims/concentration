@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "fe6e5373cffb75a3f420a89558105fe93ea4d416",
+    "sha": "a9fa41b1fb4a7220ca8dd91d3c41c65a4ff97772",
     "branch": "1.7"
   },
   "dot": {
@@ -77,7 +77,7 @@
     "branch": "HEAD"
   },
   "scenery-phet": {
-    "sha": "daff436a3e89ea02d09e2dc37366749d76561aa3",
+    "sha": "453fd10d2ffde7bdcfce7e2fd159e85f82ef82cf",
     "branch": "HEAD"
   },
   "sherpa": {
