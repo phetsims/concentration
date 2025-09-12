@@ -17,11 +17,11 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "f87199dcae4abd0c76a23f57b8df79cf9f027dee",
+    "sha": "cd93a26539020742e5296db8553b142f7873a6bc",
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "f433c1caeb25e934763456ed6caec20d80f4af61",
+    "sha": "10a3a2e4c72511b433b3d9382afa5fb24ce047f4",
     "branch": "1.8"
   },
   "dot": {
@@ -77,7 +77,7 @@
     "branch": "HEAD"
   },
   "scenery-phet": {
-    "sha": "1560e252f237fa1d6a6e8221db57dfbb6a049de2",
+    "sha": "d9217595c1e843d827efee90cc4f3bc3a4bc067c",
     "branch": "HEAD"
   },
   "sherpa": {
