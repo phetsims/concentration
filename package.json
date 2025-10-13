@@ -12,8 +12,7 @@
   "phet": {
     "requirejsNamespace": "CONCENTRATION",
     "phetLibs": [
-      "beers-law-lab",
-      "nitroglycerin"
+      "beers-law-lab"
     ],
     "runnable": true,
     "supportedBrands": [

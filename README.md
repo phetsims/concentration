@@ -37,7 +37,6 @@ git clone https://github.com/phetsims/concentration.git
 git clone https://github.com/phetsims/dot.git
 git clone https://github.com/phetsims/joist.git
 git clone https://github.com/phetsims/kite.git
-git clone https://github.com/phetsims/nitroglycerin.git
 git clone https://github.com/phetsims/perennial.git perennial-alias
 git clone https://github.com/phetsims/phet-core.git
 git clone https://github.com/phetsims/phetcommon.git

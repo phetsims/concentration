@@ -11,9 +11,6 @@
       "path": "../beers-law-lab/tsconfig.json"
     },
     {
-      "path": "../nitroglycerin/tsconfig.json"
-    },
-    {
       "path": "../perennial-alias/tsconfig/buildjson/tsconfig.json"
     }
   ]
