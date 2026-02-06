@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.8.3-rc.1 Mon Feb 02 2026 17:05:57 GMT-0500 (Eastern Standard Time)",
+  "comment": "# concentration 1.8.3 Fri Feb 06 2026 15:04:02 GMT-0500 (Eastern Standard Time)",
   "assert": {
     "sha": "1a4637cfff70e7e8b0844dc43848a86ae89b4cf5",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "f4cba13795808c724068968aab8a8585cf8fca5b",
+    "sha": "40a8fc89495f6f528e8a033649d9c6f320b6168f",
     "branch": "1.8"
   },
   "dot": {
