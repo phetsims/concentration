@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "783b90ee7b78c62fac8129bc6970424cd6f840c0",
+    "sha": "a17a5b296fdc0ca9dc81f01109e68aa4bb35540d",
     "branch": "1.8"
   },
   "dot": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "cffcf497c76e57e039d50764346526fe93897785",
+    "sha": "0d4d246d2e41bf7be86f750c2b47a782af6bff41",
     "branch": "HEAD"
   },
   "kite": {
