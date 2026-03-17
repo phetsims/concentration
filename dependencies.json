@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "8089fa33f2b296998307b15a65c0af3b0ee720f4",
+    "sha": "5110f0097e9ca7f1cfc64b390fdf5122970c82af",
     "branch": "1.7"
   },
   "dot": {
@@ -41,7 +41,7 @@
     "branch": "HEAD"
   },
   "perennial-alias": {
-    "sha": "89ef85701dcbdfd0e78ea3bc80f9477bf53aeea4",
+    "sha": "62ea66f68dbea24112a4f13c7b3a72e0778df057",
     "branch": "HEAD"
   },
   "phet-core": {
