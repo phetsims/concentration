@@ -19,6 +19,4 @@ type StringsType = {
 
 const ConcentrationStrings = getStringModule( 'CONCENTRATION' ) as StringsType;
 
-concentration.register( 'ConcentrationStrings', ConcentrationStrings );
-
 export default ConcentrationStrings;
