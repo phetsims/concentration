@@ -17,11 +17,11 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "84ced5eefa5cb4a2b41aef05d2418a9bf9aaff15",
+    "sha": "f8c9d134ee64c678ec9a09bf5b9eec95bcc3b649",
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "240735c641305d0897ee4981b3c72a76373254d4",
+    "sha": "1ae8446219aeb29f6c2007639e11e0c08e5bcef8",
     "branch": "1.8"
   },
   "dot": {
@@ -41,7 +41,7 @@
     "branch": "HEAD"
   },
   "perennial-alias": {
-    "sha": "b8bb511fca6b8816b9d681b60a70832ed59e5f4f",
+    "sha": "5d839844c46b5154cf236a35bd403688dffc0307",
     "branch": "HEAD"
   },
   "phet-core": {
