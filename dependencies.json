@@ -1,5 +1,5 @@
 {
-  "comment": "# concentration 1.8.5-rc.1 Tue Apr 07 2026 13:00:31 GMT-0400 (Eastern Daylight Time)",
+  "comment": "# concentration 1.8.5 Fri Apr 10 2026 18:03:22 GMT-0400 (Eastern Daylight Time)",
   "assert": {
     "sha": "1a4637cfff70e7e8b0844dc43848a86ae89b4cf5",
     "branch": "HEAD"
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "concentration": {
-    "sha": "637a928a9634590e92b0e37032f91f9781bb4aa4",
+    "sha": "9976d42f51e0f2df1cc9ec51079fe8e6e43ebfb6",
     "branch": "1.8"
   },
   "dot": {
